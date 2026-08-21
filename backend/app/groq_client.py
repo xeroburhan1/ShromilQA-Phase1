@@ -62,9 +62,12 @@ async def get_chat_completion(messages: list[dict]) -> str:
             if resp.status_code == 200:
                 data = resp.json()
                 try:
-                    return data["choices"][0]["message"]["content"]
+                    content = data["choices"][0]["message"].get("content")
+                    if content and isinstance(content, str) and content.strip():
+                        return content
+                    last_error_detail = f"Model {model} returned an empty response."
                 except (KeyError, IndexError) as exc:
-                    raise GroqError(f"Unexpected Groq response shape: {data}") from exc
+                    last_error_detail = f"Unexpected Groq response shape: {data}"
 
             # Handle 429 (Rate Limit) with backoff retry
             if resp.status_code == 429:

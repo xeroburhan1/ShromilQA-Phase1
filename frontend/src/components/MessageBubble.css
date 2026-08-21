@@ -54,6 +54,7 @@
   box-shadow: 0 6px 22px rgba(9, 21, 64, 0.2);
   padding: 12px 18px;
   max-width: 85%;
+  width: fit-content;
 }
 
 .bubble--error {
@@ -68,7 +69,7 @@
 
 .bubble__content {
   overflow-wrap: break-word;
-  word-break: break-word;
+  word-break: normal;
 }
 
 .bubble__content p {

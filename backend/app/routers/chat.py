@@ -78,6 +78,8 @@ async def chat(req: ChatRequest):
     llm_messages += [{"role": m["role"], "content": m["content"]} for m in history]
 
     reply_text = await get_chat_completion(llm_messages)
+    if not reply_text or not reply_text.strip():
+        reply_text = "I apologize, but I was unable to generate a detailed response for your question. Please try rephrasing your prompt."
 
     reply = db.add_message(session_id, "assistant", reply_text)
     db.touch_session(session_id)

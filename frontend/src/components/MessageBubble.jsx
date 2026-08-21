@@ -90,7 +90,14 @@ export default function MessageBubble({ role, content, isError, citations, onSel
   const isUser = role === "user";
   const [copiedReply, setCopiedReply] = useState(false);
 
-  const processedContent = isUser ? content : preprocessMarkdown(content);
+  const hasContent = content && String(content).trim().length > 0;
+  const rawContent = hasContent
+    ? content
+    : isUser
+    ? ""
+    : "⚠️ *(No response text returned. Please try rephrasing your question.)*";
+
+  const processedContent = isUser ? rawContent : preprocessMarkdown(rawContent);
 
   const handleCopyReply = () => {
     if (!content) return;
