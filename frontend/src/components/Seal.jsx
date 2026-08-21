@@ -1,7 +1,9 @@
+import logoImg from "../assets/logo.png";
+
 export default function Seal({ size = 36, className = "" }) {
   return (
     <img
-      src="/logo.png"
+      src={logoImg}
       alt="Shromik QA Logo"
       width={size}
       height={size}
