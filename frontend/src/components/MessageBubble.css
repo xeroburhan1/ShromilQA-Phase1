@@ -1,0 +1,119 @@
+.bubble-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  max-width: 720px;
+}
+
+.bubble-row--user {
+  align-self: flex-end;
+  flex-direction: row-reverse;
+}
+
+.bubble-avatar {
+  flex-shrink: 0;
+  margin-bottom: 2px;
+}
+
+.bubble-col {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+
+.bubble-col--user {
+  align-items: flex-end;
+}
+
+.citation-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-left: 2px;
+}
+
+.citation-chip {
+  font-size: 12px;
+  font-weight: 600;
+  color: #2e2e6b;
+  background: var(--grad-chip);
+  border: 1px solid rgba(46, 46, 107, 0.28);
+  padding: 6px 13px;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(46, 46, 107, 0.08);
+  transition: all 160ms cubic-bezier(0.16, 1, 0.3, 1);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.citation-chip:hover {
+  transform: translateY(-2px);
+  background: var(--grad-chip-hover);
+  border-color: #2e2e6b;
+  box-shadow: 0 6px 18px rgba(46, 46, 107, 0.25);
+}
+
+.citation-chip:active {
+  transform: translateY(0);
+}
+
+.bubble {
+  padding: 13px 18px;
+  border-radius: 12px;
+  font-size: 14.5px;
+  line-height: 1.6;
+  box-shadow: var(--shadow-card);
+}
+
+.bubble--bot {
+  background: #ffffff;
+  border: 1px solid rgba(27, 44, 193, 0.08);
+  border-bottom-left-radius: 4px;
+  color: var(--ink);
+}
+
+.bubble--user {
+  background: var(--grad-user-bubble);
+  color: #ffffff;
+  border-bottom-right-radius: 4px;
+  box-shadow: 0 6px 22px rgba(9, 21, 64, 0.22);
+}
+
+.bubble--error {
+  background: #fdf1f0;
+  border: 1px solid #f3c9c4;
+  color: #9c3b32;
+}
+
+.bubble__content p {
+  margin: 0 0 8px;
+}
+
+.bubble__content p:last-child {
+  margin-bottom: 0;
+}
+
+.bubble__content ul,
+.bubble__content ol {
+  margin: 4px 0 8px;
+  padding-left: 20px;
+}
+
+.bubble__content code {
+  background: rgba(33, 41, 92, 0.08);
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.bubble--user .bubble__content code {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.bubble__content a {
+  color: inherit;
+  text-decoration: underline;
+}

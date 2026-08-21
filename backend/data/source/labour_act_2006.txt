@@ -1,0 +1,1490 @@
+Bangladesh Labour Act, 2006
+(XLII of 2006)
+
+Section Content Page
+CHAPTER 1
+PRELIMINARY
+1. Short title, commencement and application
+2. Definitions
+
+CHAPTER II
+CONDITIONS OF SERVICE AND EMPLOYMENT
+3. Condition of employment
+4. Classification of workers and period of probation
+5. Letter of Appointment and Identity Card
+6. Service book
+7. Form of Service book
+8. Entries in the service book
+9. Register of workers and supply of tickets and cards
+10. Procedure for leave
+11. Payment of wages for unveiled leave
+12. Stoppage of work
+13. Closure of establishment
+14. Calculation of one year, six months and wages in certain cases
+15. Restriction of application of sections 12,16,17, and 18
+16. Right of laid-off workers for compensation
+17. Muster-roll for laid-off workers
+18. Laid-off workers not entitled to compensation in certain cases
+19. Death benefit
+20. Retrenchment
+21. Re-employment of retrenched workers
+22. Discharge from service
+23. Punishment for conviction and misconduct
+24. Procedure for punishment
+25. Special provisions relating to fine
+26. Termination of employment by employers otherwise than by dismissal etc.
+27. Termination of employment by workers
+28. Retirement of workers
+29. Payment of Provident Fund
+30. Time limit of final payment of workers
+31. Certificate of service
+32. Eviction from residential accommodation
+33. Grievance procedure
+
+CHAPTER III
+EMPLOYMENT OF ADOLESCENT
+34. Prohibition of employment of children and adolescent
+35. Prohibition of certain agreement in respect of children
+36. Disputes as to age
+37. Certificate of fitness
+38. Power to require medical examination
+39. Restriction of employment of adolescent in certain work
+40. Employment of adolescent on dangerous machines
+41. Working hours for adolescent
+42. Prohibition of employment of adolescent in underground and under water work
+43. Notice of periods of work for adolescent
+44. Exception in certain cases of employment of children
+
+CHAPTER IV
+MATERNITY BENEFIT
+45. Employment of women workers prohibited during certain period
+46. Right to and liability for payment of maternity benefit
+47. Procedure regarding payment of maternity benefit
+48. Amount of maternity benefit
+49. Payment of maternity benefit in case of a woman's death
+50. Restriction on termination of employment of women in certain case
+
+CHAPTER V
+HEALTH AND HYGIENE
+51. Cleanliness
+52. Ventilation and temperature
+53. Dust and fume
+54. Disposal of wastes and effluents
+55. Artificial humidification
+56. Overcrowding
+57. Lighting
+58. Drinking Water
+59. Latrines and urinals
+60. Dust bean and Spittoon
+
+CHAPTER VI
+SAFETY
+61. Safety of building and machinery
+62. Precaution in case of fire
+63. Fencing of machinery
+64. Work on or near machinery in motion
+65. Striking gear and devices for cutting off power
+66. Self-acting machines
+67. Casing of new machinery
+68. Cranes and other lifting machinery
+69. Hoists and lifts
+70. Revolving machinery
+71. Pressure plant
+72. Floors, Stairs and means of access
+73. Pits, sumps, opening in floors etc.
+74. Excessive weights
+75. Protection of eyes
+76. Powers to require specifications of defective parts or tests of stability
+77. Precaution against dangerous fumes
+78. Explosive or inflammable dust, gas etc.
+
+CHAPTER VII
+SPECIAL PROVISIONS RELATING TO HEALTH, HYGIENE AND SAFETY
+79. Dangerous operations
+80. Notice to be given of accidents
+
+[NOTE: This Phase 1 corpus currently covers Chapters I-VII (sections 1-80) of
+the Bangladesh Labour Act, 2006 in full. Chapters VIII-XXI (sections 81-354,
+covering welfare, working hours and leave, wages, wages boards, workers'
+compensation, trade unions, industrial disputes, workers' participation in
+profits, dock workers, provident funds, apprenticeship, penalties, and
+administration) are not yet ingested. See README for how to extend the corpus.]
+
+THE BANGLADESH LABOUR ACT, 2006
+(XLII OF 2006)
+11th October, 2006.
+
+An Act to consolidate and amend the laws relating to employment of labour, relations between
+workers and employers, determination of minimum wage, payment of wages and compensation for
+injuries to workers, formation of trade unions, raising and settlement of industrial disputes, health,
+safety, welfare and working conditions of workers, and apprenticeship and matters ancillary thereto.
+
+Whereas it is expedient to consolidate and amend the laws relating to employment of labour,
+relations between workers and employers, determination of minimum wages, payment of wages and
+compensation for injuries to workers, formation of trade unions, raising and settlement of industrial
+disputes, health, safety, welfare and working conditions of workers, apprenticeship and matters
+connected therewith;
+
+It is hereby enacted as follows-
+
+CHAPTER I
+PRELIMINARY
+
+1. Short title, commencement and application: (1) This Act may be called the Bangladesh labour
+Act, 2006
+(2) It shall come into force at once.
+(3) Save as otherwise specified elsewhere in this Act, it extends to the whole of Bangladesh.
+(4) Notwithstanding anything contained in sub-section (3), this Act shall not apply to-
+(a) Offices of or under the Government;
+(b) Security printing press;
+(c) Ordnance factories;
+(d) establishments for the treatment or care of the sick, infirm, aged, destitute, mentally disabled,
+orphan, abandoned child, widow or deserted woman, which are not run for profit or gains;
+(e) Shops or stalls in any public exhibition or show which deal in retail trade and which is
+subsidiary or to the purpose of such exhibition or show;
+(f) Shops or stalls in any public fair or bazaar for religious or charitable purpose;
+(g) Educational, training and research institutions;
+(h) Hostels and messes not maintained for profit or gains;
+(i) In respect of chapter, ii, any shop, commercial establishment or industrial establishment owned
+and directly managed by the government where the workers are governed by conduct rules
+applicable to government servants;
+(j) workers whose recruitments and terms and conditions of service are governed by laws or rules
+made under article 62, 79, 113, or 133 of the constitution, except, for the purposes of chapters XII,
+XIII and XIV workers employed by the-
+(i) Railway Department
+(ii) Posts, Telegraph and Telephone Departments,
+(iii) Roads and highways Department, (iv) Public works Department, (v) Public Health Engineering
+Department,
+(vi) Bangladesh Government press.
+(k) Workers employed in an establishment mentioned in clauses (b), (c) (d), (e), (f), (g) and (h) but
+workers other than teachers, employed by any university shall not be subject to the restrictions
+except the purposes of chapters XII, XIII and XIV;
+(l) Seamen, except for the purposes of chapters XII, XIII and XIV;
+(m) Ocean going vessels, except for the purpose of chapter XVI;
+(n) agricultural farms where less than ten workers are normally employed;
+(o) domestic servants; and
+(p) establishments run by the owner with the aid of members of his family and without employing
+any hired labour.
+
+2. Definitions: In this Act, unless there is anything repugnant in the subject or context,-
+(i) 'Retirement' Means normal termination of employment of a worker on attaining certain age
+under section 28 of the Act.
+Provided that retirement shall also include voluntary retirement from service on completion of 25
+years of service in any establishment.
+(ia) 'partial disablement' means, where the disablement is of temporary nature, such disablement as
+reduces the earning capacity of a worker in any employment in which he was engaged at the time of
+the accident resulting in the disablement, and, where the disablement is of a permanent nature, such
+disablement as reduces his earning capacity in every employment which he was capable of
+undertaking at that time: Provided that every injury specified in the First Schedule shall be deemed
+to result in permanent partial disablement;
+(ii) 'manufacturing process' means any of the following processes: making, altering, repairing,
+ornamenting, painting, washing, finishing, packing or otherwise treating any articles or substance
+with a view to its use, sale, transport, delivery, display or disposal; pumping oil, gas, water, sewerage
+or other fluids or slurries; generating, transforming or transmitting power or gas; constructing,
+reconstructing, repairing, refitting, finishing or breaking up of ships or vessels; or printing.
+(iii) 'officer' in relation to a trade union, means any member of the executive thereof, but does not
+include an auditor or legal adviser;
+(iv) 'hours of work' means the time during which the workers employed are at the disposal of the
+employer excluding any interval allowed for rest and meals;
+(v) 'working journalist' means a person who is a whole time journalist and is employed as such in,
+or in relation to, any newspaper establishment;
+(vi) 'workshop' means any premises, including the precincts thereof, wherein any industrial process
+is carried on.
+(vii) 'factory' means any premises including the precincts thereof whereon five or more workers
+ordinarily work on any day of the year and in part of which a manufacturing process is being carried
+on, but does not include a mine;
+(viii) 'adolescent' means a person who has completed his fourteenth year but has not completed
+eighteenth year of age;
+(ix) 'mine' means any excavation where any operation for the purpose of searching for or obtaining
+minerals has been or is being carried on;
+(x) 'gratuity' means wages payable on termination of employment of a worker which shall be
+equivalent to not less than thirty days' wages for every completed year of service or for any part
+thereof in excess of six months. It shall be in addition to any payment of compensation or payment
+in lieu of notice due to termination of services of a worker on different grounds.
+(x-a) 'tea plantation' means any land used or intended to be used for growing tea, and includes a tea
+factory;
+(xi) 'retrenchment' means the termination by the employer of services of workers, not as a measure
+of punishment but on the ground of redundancy;
+(xii) 'public utility service' means the generation, production, manufacture, or supply of electricity,
+gas, oil or water to the public; any system of public conservancy or sanitation; hospitals and
+ambulance service; fire-fighting service; postal, telegraph or telephone service; railways, airways,
+road and river transport; ports; watch and ward staff and security services maintained in any
+establishment; oxygen acetylene; and banking;
+(xiii) 'Tribunal' means the labour appellate tribunal established under this Act;
+(xiv) 'transmission machinery' means any shaft, wheel, drum, pulley, system of pulleys, couplings,
+clutch, driving belt or other appliance or device by which the motion of a prime mover is
+transmitted to or received by any machinery or plant;
+(xv) 'trade union' means trade union of workers or employers formed and registered under chapter
+XIII of this Act and shall include a federation of trade unions.
+(xvi) 'federation of trade unions' means a federation of trade unions registered under chapter XIII
+(xvii) 'discharge' means the termination of services of a worker by the employer for reasons of
+physical or mental incapacity or continued ill-health of a worker;
+(xviii) 'go-slow' means an organized, deliberate and purposeful slowing down of normal output of
+work by a body of workers in a concerted manner, and which is not due to any mechanical defect,
+breakdown of machinery, failure or defect in power supply or in the supply of normal material and
+spare parts of machinery;
+(xix) 'day' means a period of twenty-four hours beginning at 6.00 am
+(xx) 'code of civil procedure' means code of civil procedure, 1908 (V of 1908).
+(xxi) 'shop' means any premises used wholly or in part for the whole-sale or retail sale of
+commodities or articles either for cash or credit, or where services are rendered to customers;
+(xxii) 'strike' means cessation of work by a body of persons employed in any establishment acting
+in combination or a concerted refusal, or refusal under a common understanding of any number of
+persons who are or have been so employed to continue to work or to accept employment;
+(xxiii) 'seamen' means any person forming part of the crew of any ship, but does not include the
+master of the ship;
+(xxiv) 'executive committee' in relation to a trade union means the body of persons, by whatever
+name called, to which the management of the affairs of a trade union is entrusted by its constitution;
+(xxv) 'settlement' means a settlement arrived at in the course of a conciliation proceeding, and
+includes an agreement between an employer and his worker arrived at otherwise than in the course
+of any conciliation proceedings, where such agreement is in writing, has been signed by the parties
+thereto and a copy thereof has been sent to the Director of Labour and the Conciliator;
+(xxvi) 'river transport service' means a service carrying passengers or goods by river in vessels for
+hire or reward;
+(xxvii) 'vessel' means any mechanically propelled vessel used or capable of being used for the
+purpose of river transport and includes a tug or flat or barge;
+(xxviii) 'administrative worker' means a person who is employed on a whole-time basis in, or in
+relation to, any newspaper establishment in any capacity other than that of a working journalist or a
+newspaper press worker;
+(xxix) 'shift' means, where work of the same kind is carried out by two or more sets of workers
+working during different periods of the day, each of such periods;
+(xxx) 'dependant' in relation to a deceased worker, means any of the following relatives: a widow,
+minor child, unmarried daughter, or a widowed mother; and if wholly or partly dependant on the
+earnings of the worker at the time of his death, a widower, father or widowed mother, a daughter if
+unmarried or minor or widowed, a minor brother, an unmarried or widowed sister, a widowed
+daughter-in-law, a minor child of a deceased son, a minor child of a deceased daughter where no
+father of the child is alive or, where no parent of the worker is alive, a paternal grandparent and
+illegitimate son or illegitimate unmarried daughter;
+(xxxi) 'establishment' means any shop, commercial establishment, industrial establishment or
+premises in which workers are employed for the purpose of carrying on any industry;
+(xxxii) 'group of establishments' means more than one establishment under different employers,
+carrying on the same, similar or identical industry;
+(xxxiii) 'regulation' means regulation made under this Act,
+(xxxiv) 'maternity benefit' means the sum of money payable under the provisions of chapter IV to a
+woman worker with leave;
+(xxxv) 'prime mover' means any engine, motor, or other appliance which generates or otherwise
+provides power;
+(xxxvi) 'adult' means a person who has completed eighteenth year of age;
+(xxxvii) 'code of criminal procedure' means code of criminal procedure, 1898 (V of 1898)
+(xxxviii) 'closed' means not open for service to any customer or to conduct any business;
+(xxxix) 'dismissal' means the termination of services of a worker by the employer for misconduct;
+(xl) 'plantation' means any estate which is maintained for the purpose of growing rubber, coffee or
+tea and includes agriculture farms other than experimental or research farm, employing ten or more
+persons;
+(xli) 'commercial establishment' means an establishment in which the business of advertising,
+commission or forwarding is conducted or which is a commercial agency, including a clerical
+department of a factory, an insurance company, a banking company or a bank, a broker's office, a
+stock exchange, a club, a hotel or a restaurant, a cinema or theatre;
+(xlii) 'rule' means rule made under this Act;
+(xliii) 'illegal strike' means a strike declared, commenced or continued otherwise than in
+accordance with the provisions of chapter XIV;
+(xliv) 'illegal lock-out' means a lock-out declared, commenced or continued otherwise than in
+accordance with the provisions of chapter XIV;
+(xlv) 'wages' means all remuneration, expressed in terms of money or capable of being so
+expressed, which would, if the terms of employment, expressed or implied, were fulfilled, be
+payable to a worker in respect of his employment or of work done in such employment, but does not
+include the value of any house accommodation, supply of light, water, medical attendance or other
+amenity; any contribution paid by the employer to any pension fund or provident fund; any
+travelling allowance or the value of any travelling concession; any sum paid to the worker to defray
+special expenses entailed on him by the nature of his employment;
+(xlvi) 'arbitrator' means a person appointed as such under chapter XIV;
+(xlvii) 'chief inspector', 'Deputy chief inspector', 'Assistant chief inspector' and 'inspector' shall
+respectively mean persons so appointed under chapter XX
+(xlviii) 'Director of Labour', 'Additional director of labour', 'Joint Director of Labour', 'Deputy
+Director of Labour' and 'Assistant Director of Labour' shall mean persons so appointed under
+chapter XX
+(xlix) 'employer' in relation to an establishment, means any person who employs workers therein
+and includes an heir, successor, assign, guardian or legal representative; any manager or person
+responsible for the management and control of the establishment; and, in relation to an
+establishment run by or under the authority of the Government, the authority appointed in this
+behalf;
+(l) 'machinery' includes prime movers, transmission machinery and other appliance whereby power
+is generated, transformed, transmitted or applied;
+(li) 'vehicle' means any mechanically propelled vehicle, used or capable of being used for the
+purpose of road transport and includes a trolley vehicle and a trailer;
+(lii) 'collective bargaining agent', in relation to an establishment or group of establishments, means
+the trade union of workers or federation of trade unions entitled to represent workers in the matter of
+collective bargaining;
+(liii) 'relay' means, where work of the same kind is carried out by two or more sets of workers
+working during different periods of the day, each of such sets;
+(liv) 'registered medical practitioner' means any person registered as such under the medical and
+dental council Act, 1980 (XVI of 1980)
+(lv) 'registered trade union' means a trade union registered under chapter XIII;
+(lvi) 'award' means the determination by an arbitrator, or a Labour court, or the Tribunal of any
+industrial dispute or any matter relating thereto and includes an interim award;
+(lvii) 'lock-out' means the closing of a place of employment or part of such place, or the suspension,
+wholly or partly, of work by an employer, or refusal, absolute or conditional, by an employer to
+continue to employ any number of workers employed by him, where such closing, suspension or
+refusal occurs in connection with an industrial dispute;
+(lviii) 'lay-off' means the failure, refusal or inability of an employer on account of shortage of coal,
+power or raw material or the accumulation of stock or the break-down of machinery to give
+employment to a worker;
+(lix) 'power' means electrical energy and any other form of energy which is mechanically
+transmitted and is not generated by human or animal agency;
+(lx) 'industry' means any business, trade, manufacture, calling, service, employment or occupation;
+(lxi) 'industrial establishment' means any workshop or other establishment in which articles are
+produced, adapted or manufactured, and includes any road transport service or railway transport
+service, river transport service, airlines, dock, wharf or jetty, mine, quarry, gas-field or oil-field,
+plantation, factory, newspaper establishment, or a contractor's establishment for construction or
+ship-breaking;
+(lxii) 'industrial dispute' means any dispute or difference between employers and employers or
+between employers and workers or between workers and workers which is connected with the
+employment or non-employment or the terms of employment or the conditions of work of any
+person;
+(lxiii) 'child' means a person who has not completed his fourteenth year of age;
+(lxiv) 'Labour court' means a labour court established under this Act;
+(lxv) 'worker' means any person including an apprentice employed in any establishment or industry,
+either directly or through a contractor, to do any skilled, unskilled, manual, technical, trade
+promotional or clerical work for hire or reward, whether the terms of employment be expressed or
+implied, but does not include a person employed mainly in a managerial or administrative capacity;
+(lxvi) 'week' means a period of seven days beginning at 6.00 pm on Friday or such other night as
+may be fixed by the government in relation to an establishment in any area.
+(lxvii) 'total disablement' means such disablement, whether of a temporary or permanent nature, as
+incapacitates a worker for all work which he was capable of performing at the time of the accident
+resulting in such disablement;
+(lxviii) 'road transport service' means a service carrying passengers or goods by road in vehicles for
+hire or reward;
+(lxix) 'newspaper' means any printed periodical work containing public news or comments on
+public news;
+(lxx) 'newspaper press worker' means a person who is employed on a whole-time basis in any
+newspaper establishment for doing any printing work;
+(lxxi) 'Newspaper establishment' means an establishment for the printing, production or publication
+of any newspaper or for conducting any news agency or news or feature syndicate;
+(lxxii) 'newspaper worker' means a working journalist, an administrative worker or a newspaper
+press worker;
+(lxxiii) 'Conciliator' means a person appointed as such under chapter XIV;
+(lxxiv) 'Conciliation proceedings' means any proceedings before a conciliator;
+(lxxv) 'serious bodily injury' means any injury which involves, or in all probability will involve, the
+permanent loss of the use of, or permanent injury to any limb, or the permanent loss of or injury of
+the sight or hearing, or the fracture of any limb or the enforced absence of the injured person from
+work for a period exceeding twenty days;
+(lxxvi) 'decision' in relation to a Labour court, means any decision or order of that court, other than
+an award, finally disposing of a case;
+(lxxvii) 'scheme' means scheme made under this Act;
+
+CHAPTER TWO
+CONDITIONS OF SERVICE AND EMPLOYMENT
+
+3. Conditions of employment: (1) In every establishment employment of workers and other
+matters incidental thereto shall be regulated in accordance with the provisions of this chapter:
+Provided that any establishment may have its own rules regulating employment of workers, but no
+such rules shall be less favorable to any worker than the provisions of this chapter.
+(2) The service rules in any establishment as mentioned in the proviso to sub-section (1) shall be
+submitted for approval by the employer of such establishment to the chief inspector who shall,
+within six months of the receipt thereof make such order therein as he deems fit.
+(3) No service rules as mentioned in sub-section (2) shall be put into effect except with the approval
+of the chief Inspector.
+(4) Any person aggrieved by the order of the chief Inspector may, within thirty days of the receipt
+of the order, prefer appeal to the Government and the order of the Government on such appeal shall
+be final.
+(5) Nothing provided in sub-section (2) shall apply to an establishment which is owned by or under
+management or control the Government.
+
+4. Classification of workers and period probation: (1) Workers employed in any establishment
+shall be classified in any of the following classes according to the nature and condition of work:
+(a) apprentice, (b) badli, (c) casual, (d) temporary, (e) probationer, and (f) permanent.
+(2) A worker shall be called an apprentice if he is employed in an establishment as a learner, and is
+paid an allowance during the period of his training.
+(3) A worker shall be called a badli if he is employed in an establishment in the post of a permanent
+worker or of a probationer during the period who is temporarily absent.
+(4) A worker shall be called a casual worker if his employment in an establishment is of casual
+nature.
+(5) A worker shall be called a temporary worker if he is employed in an establishment for work
+which is essentially of temporary nature, and is likely to be finished within a limited period.
+(6) A worker shall be called a probationer if he is provisionally employed in an establishment to fill
+a permanent vacancy in a post and has not completed the period of his probation in the
+establishment.
+(7) A worker shall be called a permanent worker if he is employed in an establishment on a
+permanent basis or if he has satisfactorily completed the period of his probation in the establishment.
+(8) The period of probation for a worker whose function is of clerical nature shall be six months and
+for other workers such period shall be three months: Provided that in the case of a skilled worker,
+the period of probation may be extended by an additional period of three months if it has not been
+possible to determine the quality of his work within the first three months' period of his probation.
+(9) If any worker, whose service has been terminated during his probationary period, including the
+extended period, is again appointed by the same employer within a period of three years, he shall,
+unless appointed on a permanent basis, be deemed to a probationer and the period or periods of his
+earlier probation shall be counted for determining his total period of probation.
+(10) If a permanent worker is employed as a probationer in a new post, he may at any time during
+the probationary period, be reverted to his old permanent post.
+
+5. Letter of Appointment and Identity Card: No employer shall employ any worker without
+giving such worker a letter of appointment and every such employed worker shall be provided with
+an identity card with photograph.
+
+6. Service book: (1) Every employer shall, at his own cost, provide a service book for every
+worker employed by him.
+(2) Such service book shall be kept in the custody of the employer.
+(3) Before employing a worker, the employer shall require from him the previous service book if
+the worker claims that he has been previously in employment under any other employer.
+(4) If such worker has any service book, it shall be handed over to the new employer by him and
+shall be kept in the custody of the employer, for which a receipt shall be given to him.
+(5) If such worker has no service book, a service book shall be provided under sub-section (1)
+(6) If the worker desires to keep and maintain a duplicate copy of his service book, he may do it at
+his own cost.
+(7) The employer shall hand over the service book to the worker on the termination of the worker's
+service with him.
+(8) If the service book handed over to the worker or the duplicate thereof maintained by him is lost
+by the worker, the employer shall provide him with a duplicate service book at the cost of the
+worker.
+(9) Nothing in this section shall apply to an apprentice, badli or casual worker.
+
+7. Form of service Book: (1) The service book shall be of such size and in such form as may be
+prescribed and photograph of the worker shall be affixed to it.
+(2) The service book shall contain: name of the worker, name of mother and father and address; date
+of birth; particulars necessary for identification; name and address of the employer under whom
+previously employed, if any; period of employment; occupation or designation; wages and
+allowance, if any; leave availed; and conduct of the worker.
+
+8. Entries in the service book: The employer shall at the commencement of the employment and
+during the continuance of the same, make such entries therein from time to time as are required by
+this chapter and the Rules and both the employer and the worker shall sign the entries as they are
+made.
+
+9. Register of workers and supply of tickets and cards: (1) The employer of every establishment
+shall maintain a register of workers, to be available to the Inspector at all times during working
+hours.
+(2) The register of workers shall contain: the name and date of birth of each worker; date of
+appointment; the nature of his work; the periods of work fixed for him; the intervals for rest and
+meals to which he is entitled; the days of rest to which he is entitled; the group, if any, in which he is
+included; where his group works on shifts, the relay to which he is allotted; and such other
+particulars as may be prescribed by rules.
+(3) If the Inspector is of opinion that any muster roll or register maintained as part of the routine of
+an establishment gives the required particulars, he may direct that such muster roll or register shall
+be treated as the register of workers.
+(4) The Government may make rules prescribing the form of the register of workers.
+(5) The employer shall supply Tickets or cards to every worker: a permanent departmental ticket for
+permanent workers; a badli card for badli workers; a temporary ticket for temporary workers; a
+casual card for casual workers; and an apprentice card for apprentices.
+
+10. Procedure for leave: (1) A worker who desires to obtain leave of absence shall apply to the
+employer for the same in writing stating his leave address therein.
+(2) The employer or his authorised officer shall issue orders on the application within seven days of
+the application or two days prior to the commencement of leave applied for, whichever is earlier;
+Provided that if due to urgent reasons the leave applied for is to commence on the date of application
+or within three days thereof the order shall be given on the same day.
+(3) If the leave asked for is granted, a leave pass shall be issued to the worker.
+(4) If the leave asked for is refused or postponed the fact of such refusal or postponement, and the
+reasons thereof shall be communicated to the worker before the date on which the leave was
+expected to commence, and shall also be recorded in a register maintained by the employer.
+(5) If the worker, after availing leave, desires an extension thereof, he shall apply sufficiently in
+advance before the expiry of the leave to the employer, who shall send a written reply either
+granting or refusing extension of leave.
+
+11. Payment of wages for unveiled leave: If the services of a worker, to whom any annual leave is
+due, is dispensed with whether as a result of retrenchment, discharge, removal, dismissal,
+termination, retirement or by reason of his resignation before he has availed of any such leave, the
+employer shall pay his wages in lieu of the unveiled leave at the rate he is entitled to during the
+period of leave.
+
+12. Stoppage of work: (1) The employer may, at any time, in the event of fire, catastrophe,
+breakdown of machinery, or stoppage of power supply, epidemics, civil commotion or any other
+cause beyond his control, stop any section or sections of the establishment, wholly or partly.
+(2)-(4) The employer shall notify affected workers by notice posted on the notice board, indicating
+when work will resume.
+(5) Workers directed to stay at their place of work following such stoppage may not be paid for the
+period of detention if it does not exceed one hour, and shall be paid wages for the whole period of
+detention if it exceeds one hour.
+(6) If the period of stoppage does not exceed one working day, a worker may not be paid any wages.
+(7) If the period of stoppage continues for more than a working day, a worker affected, other than a
+casual or badli worker, shall be paid wages for the day or days by which it exceeds one working day.
+(8) If the period of stoppage extends beyond three working days, the workers may be laid-off in
+accordance with section 16.
+
+13. Closure of establishment: (1) The employer may, in the event of an illegal strike by any section
+or department of any establishment, close down either wholly or partly such section or department
+and the workers who participated in the illegal strike shall not be paid any wages for such closure.
+(2) Where such closing affects another section or department so that it is not possible to keep it
+open, that section may also be closed and the workers affected shall be paid wages as in the case of
+lay-off for a period of three days and thereafter no wages for such closure.
+(3) The fact of such closure and of resumption of work shall be notified by notice on the notice
+board.
+
+14. Calculation of 'one year', 'six months' and 'wages' in certain cases: (1) A worker who, during
+the preceding twelve calendar months, has actually worked for not less than two hundred and forty
+days (or one hundred and twenty days for 'six months') shall be deemed to have completed 'one
+year' or 'six months' of continuous service.
+(2) Days on which a worker has been laid-off, on leave with or without wages due to sickness or
+accident, on legal strike or out of work due to illegal lock-out, or (for female workers) on maternity
+leave not exceeding sixteen weeks, shall be counted for this purpose.
+(3) For the purpose of calculating compensation under sections 19, 20 or 23 or wages under sections
+22, 23, 26, or 27, 'wages' shall mean the average of the basic wages and dearness allowance and
+ad-hoc or interim pay, if any, paid to the worker during the twelve months immediately preceding
+the date of his retrenchment, dismissal, removal, discharge, retirement or termination of employment.
+
+15. Restrictions of application of sections 12, 16, 17, and 18: The provisions of sections 12, 16,
+17, and 18 shall not apply to any establishment in which five or more workers are not employed, or
+were not employed on any day of the preceding twelve months.
+
+16. Right of laid-off workers for compensation: (1) A worker, other than a badli or casual worker,
+whose name is on the muster-rolls and who has completed not less than one year of continuous
+service, when laid-off, shall be paid compensation for all days during which he is laid-off, except
+weekly holidays.
+(2) The compensation shall be equal to half of the total of basic wages and dearness allowance, and
+ad-hoc or interim pay, if any, and the full amount of housing allowance, if any.
+(3) A badli worker who has completed one year of continuous service ceases to be regarded as
+'badli' for this section.
+(4) No worker shall, unless agreed otherwise, be entitled to compensation under this section for
+more than forty-five days during any calendar year.
+(5)-(6) If a worker is laid-off for more than forty-five days in a calendar year, subsequent periods of
+fifteen days or more are compensated at one-fourth of the total of basic wages and dearness
+allowance, and ad-hoc or interim pay, plus full housing allowance, if any.
+(7) The employer may instead retrench such a worker under section 20.
+
+17. Muster-roll for laid-off workers: The employer shall maintain a muster-roll for laid-off
+workers who present themselves for work at the appointed time during normal working hours.
+
+18. Laid-off workers not entitled to compensation in certain cases: No compensation is payable
+to a laid-off worker who refuses alternative employment on the same wages not requiring special
+skill, in the same or a nearby establishment of the same employer, or who does not present himself
+for work when required.
+
+19. Death benefit: If a worker dies while in service after continuous service of not less than three
+years, his nominee (or dependant, in the absence of a nominee) shall be paid compensation at the
+rate of thirty days' wages for every completed year of service, or gratuity if any, whichever is
+higher, in addition to other benefits, unless a compulsory insurance scheme or chapter XII
+compensation applies, in which case whichever is higher shall be paid.
+
+20. Retrenchment: (1) A worker may be retrenched from service on the ground of redundancy.
+(2) No worker with not less than one year of continuous service shall be retrenched unless given one
+month's notice in writing (or paid in lieu), a copy sent to the chief Inspector and the collective
+bargaining agent, and paid compensation equivalent to thirty days' wages or gratuity, whichever is
+higher, for every completed year of service.
+(3) In the case of retrenchment under section 16(7), no notice is necessary, but the worker shall be
+paid fifteen days' wages in addition to the compensation or gratuity payable under sub-section
+(2)(c).
+(4) Where a category of workers is to be retrenched, absent agreement otherwise, the employer shall
+retrench the worker last employed in that category (last-in-first-out).
+
+21. Re-employment of retrenched workers: Where the employer proposes to re-employ within one
+year of retrenchment, retrenched workers of that category shall be given the first opportunity, in
+order of length of service.
+
+22. Discharge from service: (1) A worker may be discharged for reasons of physical or mental
+incapacity or continued ill-health certified by a registered medical practitioner.
+(2) A worker with not less than one year of continuous service so discharged shall be paid
+compensation at the rate of thirty days' wages for every completed year of service, or gratuity if any,
+whichever is higher.
+
+23. Punishment for conviction and misconduct: (1) A worker may be dismissed without prior
+notice or pay in lieu if convicted of a criminal offence or found guilty of misconduct under section
+24.
+(2) Instead of dismissal, lesser punishments may be awarded: removal; reduction to a lower
+post/grade/pay for up to one year; stoppage of promotion for up to one year; withholding of
+increment for up to one year; fine; suspension without wages for up to seven days; or censure/
+warning.
+(3) A worker dismissed or removed as punishment, if continuous service is not less than one year,
+shall be paid compensation at the rate of fourteen days' wages for every completed year of service,
+or gratuity if any, whichever is higher — except no compensation is payable for misconduct
+specified in sub-section (4)(b).
+(4) Misconduct includes: wilful insubordination or disobedience; theft, fraud or dishonesty; taking or
+giving bribes; habitual late attendance; habitual breach of law/rule/regulation; riotous or disorderly
+behaviour; habitual negligence of work; habitual breach of any approved rule of employment; and
+falsifying or damaging employer's official records.
+(5) If a worker dismissed under sub-section (1)(a) is acquitted on appeal, he shall be reinstated
+without back wages, or paid compensation as on discharge if reinstatement is not possible.
+
+24. Procedure for punishment: (1) No punishment under section 23 shall be imposed unless the
+allegations are recorded in writing, a copy given with at least seven days to explain, an opportunity
+of being heard is given, guilt is found after enquiry, and the employer/manager approves the order.
+(2) A worker may be suspended pending enquiry for up to sixty days, and shall be paid a subsistence
+allowance equivalent to half his average wages during suspension.
+(3)-(10) Set out procedural requirements for suspension orders, cross-examination, wage treatment
+after enquiry outcome, notice delivery, and matters the employer must weigh in awarding
+punishment.
+
+25. Special provisions relating to fine: (1) No fine exceeding one-tenth of wages payable for a
+wage-period may be imposed in that period.
+(2) No fine shall be imposed on a worker under fifteen years of age.
+(3) No fine shall be recovered by instalments or after sixty days from imposition.
+(4)-(5) Fines are deemed imposed on the day of the offence, and all fines must be recorded in a
+prescribed register and applied only to purposes beneficial to workers.
+
+26. Termination of employment by employers otherwise than by dismissal etc.: (1) A
+permanent worker's employment may be terminated by giving 120 days' notice (monthly-rated) or
+60 days' notice (other workers), in writing.
+(2) A temporary worker's employment (not due to completion of the temporary work) may be
+terminated with 30 days' notice (monthly-rated) or 14 days' notice (other workers).
+(3) Termination without notice is permitted if wages are paid in lieu of the notice period.
+(4) A terminated permanent worker shall be paid compensation at the rate of thirty days' wages for
+every completed year of service, or gratuity if any, whichever is higher, plus other entitled benefits.
+
+27. Termination of employment by workers: (1) A permanent worker may resign by giving sixty
+days' written notice.
+(2) A temporary worker may resign by giving thirty days' notice (monthly-rated) or fourteen days'
+notice (other workers).
+(3) Resignation without notice is permitted if wages are paid in lieu of the notice period.
+(4) A resigning permanent worker shall be paid compensation at fourteen days' wages per completed
+year of service (five to under ten years of continuous service) or thirty days' wages per completed
+year (ten years or more), or gratuity if any, whichever is higher.
+
+28. Retirement of worker: (1) A worker shall retire from employment on completion of the
+fifty-seventh year of age.
+(2) The date of birth recorded in the service book is conclusive proof of age.
+(3) Every retiring worker shall be paid the benefits due under section 26(4) or the establishment's
+own service rules.
+(4) The appropriate authority may afterwards re-employ the retiring worker under contract.
+
+29. Payment of Provident Fund: No worker who is a member of a provident fund shall be deprived,
+due to retrenchment, dismissal, removal, discharge or termination, of the benefit of the fund
+including the employer's contribution, if entitled under the fund's rules.
+
+30. Time limit of final payment of workers: Where employment ceases due to retirement,
+discharge, retrenchment, dismissal or termination, all amounts due shall be paid within a maximum
+of thirty working days.
+
+31. Certificate of service: Every worker, other than casual or badli, is entitled to a certificate of
+service on retrenchment, discharge, dismissal, removal, retirement or termination.
+
+32. Eviction from residential accommodation: (1) A worker occupying employer-provided
+residential accommodation whose service has ceased shall vacate within sixty days.
+(2)-(5) On default, the employer may apply to the Labour Court, which may order eviction, if
+necessary by police, after giving at least six hours' notice to occupants.
+
+33. Grievance procedure: (1) A worker with a grievance under this chapter shall submit it in
+writing to the employer by registered post within thirty days of the cause arising.
+(2) The employer shall enquire, give a hearing, and communicate a decision in writing within
+fifteen days of receipt.
+(3) If the employer fails to decide, or the worker is dissatisfied, the worker may complain to the
+Labour Court within thirty days.
+(4)-(5) The Labour Court shall hear the parties and may order relief including reinstatement, with or
+without back wages, or convert a dismissal/removal/discharge order to a lesser punishment under
+section 23(2).
+(6) Appeal from a Labour Court order lies to the Tribunal within thirty days, and the Tribunal's
+decision is final.
+(7)-(9) No court fees are payable; a complaint is not a prosecution; and no complaint lies against a
+termination under section 26 unless it is alleged to be motivated by trade union activities or the
+worker was deprived of the benefits specified in that section.
+
+CHAPTER III
+EMPLOYMENT OF ADOLESCENT
+
+34. Prohibition of employment of children and adolescent: (1) No child shall be employed or
+permitted to work in any occupation or establishment.
+(2) No adolescent shall be employed or permitted to work unless a certificate of fitness from a
+registered medical practitioner is held by the employer, and the adolescent carries a token referring
+to it while at work.
+(3) This does not apply to an adolescent employed as an apprentice or for vocational training.
+(4) The Government may, in an emergency, suspend the certificate requirement by notification.
+
+35. Prohibition of certain agreement in respect of children: No parent or guardian of a child shall
+make an agreement to allow the child's services to be utilised in any employment.
+
+36. Disputes as to age: (1) A dispute as to whether a person is a child or adolescent shall, absent a
+certificate, be referred to a registered medical practitioner for decision.
+(2) Such a medical certificate is conclusive evidence of age.
+
+37. Certificate of fitness: (1) A registered medical practitioner shall, on application, examine and
+certify whether an adolescent is fit to work in an occupation or establishment.
+(2) A certificate of fitness is valid for twelve months from issue.
+(3) The fee is payable by the employer, not the adolescent or guardian.
+
+38. Power to require medical examination: An Inspector who believes a working person is an
+adolescent without a fitness certificate, or that a certified adolescent is no longer fit, may require
+that the adolescent not work until examined and certified.
+
+39. Restriction of employment of adolescent in certain work: No adolescent shall clean, lubricate
+or adjust machinery in motion, or work between moving parts of machinery in motion.
+
+40. Employment of adolescent on dangerous machines: No adolescent shall work at a dangerous
+machine unless fully instructed on the dangers and precautions, and either sufficiently trained or
+under adequate supervision.
+
+41. Working hours for adolescent: (1) No adolescent shall work more than five hours a day or
+thirty hours a week in a factory or mine.
+(2) No adolescent shall work more than seven hours a day or forty-two hours a week in any other
+establishment.
+(3) No adolescent shall work between 7.00 p.m. and 7.00 a.m.
+(4) With overtime, total hours shall not exceed thirty-six hours a week (factory/mine) or forty-eight
+hours a week (other establishments).
+(5) An adolescent's work shall be limited to two non-overlapping shifts of not more than seven and a
+half hours each.
+(6) An adolescent shall be employed in only one relay, changeable no more than once every thirty
+days without the Inspector's permission.
+(7) Weekly holiday provisions apply to adolescent workers without exemption.
+(8) No adolescent shall work in more than one establishment in a day.
+
+42. Prohibition of employment of adolescent in underground and under-water work: No
+adolescent shall be employed in underground or underwater work.
+
+43. Notice of periods of work for adolescent: (1)-(4) Every establishment employing adolescents
+shall display a notice of their specified working periods, fixed in the same manner as for adult
+workers.
+
+44. Exception in certain cases of employment of children: (1) A child who has completed twelve
+years of age may be employed in light work that does not endanger health, development, or
+interfere with education (school hours must be protected).
+(2) Provisions applicable to adolescents apply, with necessary modification, to such child workers.
+
+CHAPTER IV
+MATERNITY BENEFIT
+
+45. Employment of women workers prohibited during certain period: (1)-(2) No employer
+shall knowingly employ, and no woman shall work, during the eight weeks immediately following
+delivery.
+(3) No employer shall assign arduous work, long standing, or health-risking work to a woman
+believed to be within ten weeks of delivery, or within ten weeks after delivery — except tea
+plantation workers certified fit for light work by the estate's medical practitioner, who must be paid
+the prevailing rate for that work in addition to maternity benefit.
+
+46. Right to, and liability for, payment of maternity benefit: (1) Every woman employed is
+entitled to, and her employer liable for, maternity benefit for eight weeks preceding and eight weeks
+following the expected day of delivery, provided she has worked at least six months immediately
+preceding the day of delivery.
+(2) No maternity benefit is payable if, at confinement, she has two or more surviving children (but
+she remains entitled to the leave).
+
+47. Procedure regarding payment of maternity benefit: (1)-(2) A pregnant woman shall give
+notice (oral or written) that she expects confinement within eight weeks, and may nominate a person
+to receive payment in case of her death; if she has not given prior notice, she must give notice within
+seven days of delivery.
+(3) On notice, the employer shall permit her to be absent from work through eight weeks after
+delivery.
+(4) The employer shall pay maternity benefit in instalments tied to a medical certificate and proof of
+birth, as the woman elects among the specified payment schedules; proof must be produced within
+three months of delivery.
+(5) Acceptable proof includes a certified birth-register extract or a registered medical practitioner's
+certificate.
+
+48. Amount of maternity benefit: (1)-(2) Maternity benefit is payable at the daily, weekly or
+monthly average wage, calculated by dividing total wages earned in the three months immediately
+preceding the notice by the number of days actually worked, paid wholly in cash.
+
+49. Payment of maternity benefit in case of a woman's death: (1) If a woman entitled to
+maternity benefit dies at delivery or within the following eight months, the employer shall pay the
+benefit to whoever cares for the surviving child, or, if the child does not survive, to her nominee or
+legal representative.
+(2) If she dies during the entitlement period before giving birth, the employer's liability is limited to
+the period up to her death; the balance is paid to her nominee or legal representative.
+
+50. Restriction on termination of employment of a woman in certain cases: A notice or order of
+discharge, dismissal, removal or termination given to a woman within six months before or eight
+weeks after her delivery, without sufficient cause, does not deprive her of maternity benefit she
+would otherwise be entitled to.
+
+CHAPTER V
+HEALTH AND HYGIENE
+
+51. Cleanliness: Every establishment shall be kept clean and free from effluvia, with daily removal
+of dirt/refuse, weekly floor washing, drainage where floors become wet, and periodic repainting/
+whitewashing of walls and ceilings (at least once every three years if painted/varnished, or every
+fourteen months if whitewashed), with dates of such work recorded in a prescribed register.
+
+52. Ventilation and temperature: Every establishment shall maintain adequate ventilation and a
+temperature that secures reasonable comfort and prevents injury to health, with measures to isolate
+or reduce excessive heat from manufacturing processes.
+
+53. Dust and fume: Effective measures shall prevent accumulation and inhalation of injurious dust
+or fume in work-rooms, including exhaust appliances near the point of origin; internal combustion
+engines must vent exhaust outdoors or otherwise prevent harmful fume accumulation.
+
+54. Disposal of wastes and effluents: Effective arrangements shall be made for disposal of wastes
+and effluents from the manufacturing process.
+
+55. Artificial humidification: Where humidity is artificially increased, the water used must come
+from a public supply or be effectively purified; an Inspector may order specific purification
+measures.
+
+56. Overcrowding: (1)-(2) No work-room shall be overcrowded to a degree injurious to health; at
+least 9.5 cubic metres of space per worker is required (space above 4.25 metres from the floor is
+excluded).
+(3)-(4) The chief Inspector may require posted notices of maximum occupancy, or exempt a
+work-room where compliance is unnecessary for health.
+
+57. Lighting: Sufficient and suitable lighting (natural or artificial) shall be provided; windows/
+skylights kept clean; glare and shadow causing eye strain or accident risk shall be prevented.
+
+58. Drinking water: (1)-(4) Wholesome drinking water shall be provided at suitable points, marked
+'Drinking water' in Bangla; establishments with 250 or more workers must provide for cooling
+drinking water in hot weather; oral rehydration therapy must be available where heat-related
+dehydration risk exists near machinery.
+
+59. Latrines and urinals: Sufficient, conveniently located, separately provided (by sex), well-lit,
+ventilated, and hygienically maintained latrines and urinals are required in every establishment.
+
+60. Dust bin and spittoon: (1)-(3) Sufficient dust bins and spittoons shall be provided and kept
+clean; no person shall litter or spit outside them; the relevant notice and penalty must be displayed.
+
+CHAPTER VI
+SAFETY
+
+61. Safety of building and machinery: (1)-(2) An Inspector who finds a building, way, machinery
+or plant dangerous to life or safety may order remedial measures by a specified date, or prohibit its
+use until repaired if the danger is imminent.
+
+62. Precaution in case of fire: (1) Every establishment shall have at least one alternative stairway
+per floor and prescribed means of escape and fire-fighting apparatus.
+(2) An Inspector may order compliance by a specified date.
+(3)-(6) Exit doors must open easily from inside (and generally outward), be unobstructed, clearly
+marked in Bangla with red lettering, and a free passageway to each escape route must be maintained.
+(7)-(8) Establishments with more than ten workers above ground floor, or storing explosive/
+inflammable materials, must ensure workers are trained in escape routines; factories with fifty or
+more workers must hold a mock fire drill at least annually and keep records.
+
+63. Fencing of machinery: (1)-(2) Moving parts of prime movers, flywheels, transmission
+machinery, and other dangerous machine parts must be securely fenced unless inherently as safe
+unfenced; set screws, bolts, gearing etc. that could cause contact injury must also be fenced.
+
+64. Work on or near machinery in motion: (1) Examination, lubrication or adjustment of
+machinery in motion may only be performed by a specially trained adult male worker in tight-fitting
+clothing, recorded in a prescribed register, following belt-handling safety limits.
+(2) The Government may prohibit cleaning/lubricating/adjusting specified machine parts while in
+motion.
+
+65. Striking gear and devices for cutting off power: (1)-(2) Suitable striking gear for driving
+belts, and devices for cutting off power in emergencies, must be provided and maintained in every
+work-room.
+
+66. Self-acting machines: No traversing part of a self-acting machine, or material carried on it,
+shall be allowed to run within forty-five centimetres of a fixed structure where a person might pass,
+subject to a grandfather exemption the chief Inspector may permit for pre-existing machines.
+
+67. Casing of new machinery: In machinery installed after the Act's commencement, set screws,
+bolts and gearing must be sunk, encased or guarded to prevent danger, unless as safe unencased.
+
+68. Cranes and other lifting machinery: Lifting machinery must be of good construction and
+sound material, properly maintained, examined by a competent person at least every twelve months
+with records kept; must not be loaded beyond its marked safe working load; and effective measures
+must keep a travelling crane at least six metres from workers on its wheel-track.
+
+69. Hoists and lifts: (1)-(7) Hoists and lifts must be of good construction, properly maintained, and
+examined at least every six months with records kept; enclosed to prevent trapping; marked with
+maximum safe load; fitted with interlocking gates; and (for those installed after the Act) fitted with
+at least two independently attached ropes/chains, a device to support the cage if ropes break, and an
+automatic anti-over-running device, subject to a chief Inspector exemption for pre-existing
+installations.
+
+70. Revolving machinery: (1)-(3) Grinding rooms must display notices of maximum safe peripheral
+speed, shaft speed, and pulley diameter; these speeds must not be exceeded; and safety measures for
+revolving vessels/wheels driven by power must be maintained.
+
+71. Pressure plant: Where plant or machinery operates above atmospheric pressure, effective
+measures shall ensure the safe working pressure is not exceeded.
+
+72. Floors, stairs and means of access: All floors, stairs, passages and gangways must be soundly
+constructed, properly maintained, fitted with handrails where necessary for safety, and kept clean,
+wide and clear of obstructions, with safe means of access to every workplace.
+
+73. Pits, sumps, opening in floors, etc.: Fixed vessels, sumps, tanks, pits or floor openings that are
+a source of danger must be securely covered or fenced.
+
+74. Excessive weights: No person shall be required to lift, carry or move a load so heavy as to be
+likely to cause injury.
+
+75. Protection of eyes: The Government may require effective screens or goggles for workers
+exposed to risk of eye injury from particles, fragments, excessive light or heat in a manufacturing
+process.
+
+76. Powers to require specifications of defective parts or tests of stability: An Inspector who
+believes a building, way, machinery or plant may be dangerous may require drawings, specifications
+or stability tests by a specified date.
+
+77. Precaution against dangerous fumes: (1)-(5) Entry into confined spaces with dangerous fumes
+is restricted to persons with proper manholes/egress, prohibited portable lighting above 24 volts,
+required fume clearance or breathing apparatus with a safety rope attended from outside, mandatory
+availability and periodic certification of breathing/reviving apparatus, and mandatory cooling/
+ventilation before entering boilers, furnaces or similar confined spaces.
+
+78. Explosive or inflammable dust, gas, etc.: (1)-(4) Where a process produces explosive dust, gas,
+fume or vapour, practicable measures must prevent explosion via enclosure, removal of
+accumulation, and exclusion of ignition sources; plant not built to withstand explosion pressure must
+have measures to restrict spread; pressurised explosive/inflammable plant may only be opened under
+specified depressurisation and re-securing procedures; and welding/cutting operations on vessels that
+held explosive substances require the substance and fumes to be removed first and adequate cooling
+before further use.
+
+CHAPTER VII
+SPECIAL PROVISIONS RELATING TO HEALTH, HYGIENE AND SAFETY
+
+79. Dangerous operations: Where an operation exposes workers to serious risk of bodily injury,
+poisoning or disease, the Government may make rules declaring it hazardous, restricting employment
+of women/adolescents/children in it, requiring periodic medical examination and fitness
+certification, providing protection for persons in or near the operation, and requiring notices on
+corrosive chemical precautions.
+
+80. Notice to be given of accidents: (1) An employer must notify the Inspector within two working
+days of any accident causing loss of life or bodily injury, or of any accidental explosion, ignition,
+fire, or irruption of water/fumes in the establishment.
+(2) Where the accident causes bodily injury resulting in compulsory absence from work, further
+notice and reporting requirements apply (text of this sub-section continues beyond the currently
+ingested extract).
+
+
+81. Notice of certain dangerous occurrences: Where there occurs in any establishment any dangerous occurrence causing bodily injury, disability or risk, the employer or manager shall immediately send notice in the prescribed form to the Inspector.
+
+82. Notice of certain disease: (1) Where any worker contracts any disease specified in the Second Schedule, the manager shall send notice to the Chief Inspector. (2) Any attending medical practitioner shall report the worker's details and disease to the Chief Inspector.
+
+83. Power to direct inquiry into cases of accident or disease: The Government may appoint a competent person to inquire into any accident or disease occurring in an establishment and report on its causes and circumstances.
+
+84. Power to take samples: An Inspector may take samples of any substance used or intended to be used in an establishment which he believes to be dangerous or toxic.
+
+85. Powers of Inspector in case of imminent danger: If an Inspector considers any building, machinery or process dangerous to human life or safety, he may order the employer in writing to prohibit use until repaired or guarded.
+
+86. Notice of opening of establishment: An employer shall send a written notice to the Chief Inspector at least 30 days before commencing work in any manufacturing or industrial establishment.
+
+87. Dangerous operations: Where any process exposes workers to serious risk of bodily injury or disease, the Government may make rules declaring it hazardous and specifying protective measures.
+
+88. Safety record book: In every establishment employing fifty or more workers, a safety record book shall be maintained in the prescribed format.
+
+CHAPTER VIII
+WELFARE
+
+89. First-aid appliances: (1) There shall be provided and maintained first-aid boxes or cupboards equipped with prescribed contents. (2) At least one first-aid box shall be maintained for every 150 workers. (3) Each first-aid box shall be kept in charge of a trained person available during working hours.
+
+90. Maintenance of safety record book: Employers in establishments employing 50 or more workers shall maintain a safety record book and safety committee.
+
+91. Washing facilities: In every establishment adequate and suitable facilities for washing shall be provided and maintained for the use of workers.
+
+92. Canteens: (1) In any establishment wherein more than 100 workers are ordinarily employed, an adequate canteen shall be provided and maintained for the use of workers.
+
+93. Shelters, rest-rooms and lunch-rooms: (1) In every establishment wherein more than 50 workers are ordinarily employed, adequate and suitable shelters or rest-rooms and lunch-rooms with drinking water shall be provided.
+
+94. Rooms for children (Creche): (1) In every establishment wherein 40 or more female workers are ordinarily employed, a suitable room or rooms shall be provided for the use of children under six years of age.
+
+95. Recreational and educational facilities in tea plantations: Employers in tea gardens shall provide recreational, medical and primary educational facilities for workers and their children.
+
+96. Medical care for tea plantation workers: Employers in tea gardens shall provide medical facilities and emergency care for resident workers and their families.
+
+97. Housing facilities in tea plantations: Employers in tea gardens shall provide housing accommodation for resident workers and their families.
+
+98. Facilities for daily necessities in tea plantations: Employers in tea gardens shall provide facilities for supply of daily food grain and essential commodities to workers.
+
+99. Compulsory group insurance: (1) In establishments where 100 or more permanent workers are employed, the employer shall introduce compulsory group insurance scheme for workers.
+
+CHAPTER IX
+WORKING HOURS AND LEAVE
+
+100. Daily working hours: No adult worker shall ordinarily be required or allowed to work in an establishment for more than eight hours in any day. Provided that subject to Section 108, a worker may work up to ten hours a day.
+
+101. Interval for rest or meal: No worker shall be required to work for more than six hours continuously without an interval of at least one hour for rest or meal.
+
+102. Weekly working hours: (1) No adult worker shall ordinarily be required or allowed to work for more than forty-eight hours in any week. (2) Total working hours inclusive of overtime shall not exceed sixty hours in any week and average fifty-six hours per week on annual basis.
+
+103. Weekly holiday: An adult worker in an establishment shall be allowed in each week at least one whole day holiday (or one and a half day holiday in commercial establishments).
+
+104. Compensatory weekly holiday: Where a worker is deprived of any weekly holiday due to emergency work, he shall be allowed compensatory holidays within the next two months.
+
+105. Spreadover: The period of work of an adult worker inclusive of intervals for rest shall not spread over more than eleven hours in any day.
+
+106. Night shift work: Where a worker works on a night shift extending beyond midnight, a holiday for a whole day shall mean a period of 24 consecutive hours beginning when his shift ends.
+
+107. Restriction on double employment: No worker shall work in more than one establishment on any day without written permission.
+
+108. Extra allowance for overtime: Where a worker works in an establishment for more than eight hours in any day or forty-eight hours in any week, he shall be entitled to overtime allowance at twice the rate of his basic wages and dear allowance.
+
+109. Restriction on working hours of female workers: No female worker shall without her consent be required to work between 10:00 PM and 6:00 AM.
+
+110. Display of notice of periods of work: Notice of working hours, shifts and rest intervals shall be conspicuously displayed in every establishment.
+
+111. Casual leave: Every worker shall be entitled to casual leave with full wages for ten days in a calendar year.
+
+112. Sick leave: (1) Every worker shall be entitled to sick leave with full wages for fourteen days in a calendar year on medical certificate.
+
+113. Annual leave with wages: Every adult worker who has completed one year of continuous service shall be allowed annual leave with full wages at the rate of one day for every 18 days of work (factory/shop) or one day for every 22 days of work (tea plantation).
+
+114. Festival holiday: Every worker shall be allowed eleven days of paid festival holidays in a calendar year.
+
+115. Payment of wages during leave or holiday period: For leave or holidays allowed under Sections 111-114, a worker shall be paid at the rate equal to the daily average of his full wages.
+
+116. Advance payment of wages in certain cases: A worker allowed leave for not less than four days shall be paid wages due for the leave period before his leave begins.
+
+117. Unavailed leave encashable: Earned annual leave not availed by a worker may be accumulated up to 40 days (factory) or 60 days (shop) and encashed at retirement or termination.
+
+118. Power to exempt establishments from Chapter IX: The Government may by notification exempt any establishment or class of establishments from provisions of working hours in public emergency.
+
+119. Power to make rules regarding leave and hours: The Government may make rules regulating overtime, working hours, leave registers and notices.
+
+CHAPTER X
+WAGES AND PAYMENT THEREOF
+
+120. Responsibility for payment of wages: Every employer shall be responsible for the payment to workers employed by him of all wages required to be paid under this Act.
+
+121. Fixation of wage-periods: Every person responsible for the payment of wages shall fix wage periods not exceeding one month.
+
+122. Time of payment of wages: Wages of every worker shall be paid before the expiry of the seventh day after the last day of the wage-period.
+
+123. Wages to be paid in current coin or currency notes: All wages shall be paid in current currency notes or bank coins, or directly credited to worker's bank account or digital payment account.
+
+124. Deductions which may be made from wages: No deductions shall be made from the wages of a worker except those authorized under this Act (fines, absence from duty, damage to goods, housing, provident fund, tax).
+
+125. Deductions for absence from duty: Deductions may be made for absence from duty for the period the worker was absent.
+
+126. Deductions for damage or loss: Deductions for damage or loss of goods expressly entrusted to worker shall not exceed the actual damage caused.
+
+127. Deductions for services rendered: Deductions may be made for house accommodation or amenity provided by employer.
+
+128. Deductions for recovery of advances: Recovery of advances of money given before employment shall be made from the first payment of wages.
+
+129. Deductions for provident fund and co-operative societies: Deductions may be made for provident fund contributions or co-operative society loans authorized by worker.
+
+130. Claims arising out of deductions or delay in payment: Where unpaid wages or unauthorized deductions occur, worker or trade union may apply to Labour Court.
+
+131. Power of Labour Court to direct payment: The Labour Court after hearing may order repayment of delayed wages together with compensation up to ten times the amount.
+
+132. Execution of order of Labour Court: Any sum ordered by Labour Court to be paid under Section 131 may be recovered as a public demand or fine.
+
+133. Appeal against order of Labour Court: An appeal against an order of Labour Court under Section 131 lies to the Labour Appellate Tribunal within 30 days.
+
+134. Bar of suits: No court shall entertain any suit for the recovery of wages in so far as the sum claimed could have been recovered by application under Section 130.
+
+135. Minimum Wage Board: The Government shall establish a Minimum Wage Board consisting of Chairman, independent member, employer representative, and worker representative.
+
+136. Recommendation of minimum rates of wages: Minimum Wage Board shall upon reference by Government recommend minimum rates of wages for workers in specified industries.
+
+137. Factors to be considered in recommending minimum wages: Board shall consider cost of living, standard of living, production cost, productivity, and capacity of industry.
+
+138. Declaration of minimum rates of wages: The Government may by notification declare the minimum rates of wages recommended by Minimum Wage Board.
+
+139. Minimum wages to be binding: Minimum wages declared by Government shall be binding on all employers in the industry concerned; paying less than minimum wage is an offence.
+
+140. Periodic review of minimum rates of wages: Minimum rates of wages shall be reviewed every five years by the Minimum Wage Board.
+
+141. Prohibition of paying less than minimum wage: No employer shall pay any worker wages at a rate lower than the declared minimum rate of wages.
+
+142. Worker's right to receive minimum wages: Every worker shall be entitled to receive minimum wages declared under Section 138 regardless of any contract to the contrary.
+
+143. Payment of equal wages for equal work: No discrimination shall be made between male and female workers in fixing rates of wages for work of equal value.
+
+144. Wage Board for tea plantation workers: Specialized wage board provisions apply to tea garden workers and maritime workers.
+
+145. Newspaper workers wage board: Specialized Newspaper Wage Board recommendations govern wages of working journalists and newspaper employees.
+
+146. Implementation of Newspaper Wage Board award: Newspaper employers must implement tribunal awards within specified timelines.
+
+147. Power to make rules under Chapter X: Government may make rules for wage registers, wage slips, and Minimum Wage Board procedures.
+
+148. Display of wage rates: Employers shall display minimum wage rates conspicuously at place of work.
+
+149. Exemption from wage payment provisions: Government may exempt specialized temporary emergency operations from certain wage rules.
+
+CHAPTER XI
+WORKERS' COMPENSATION FOR INJURY BY ACCIDENT
+
+150. Employer's liability for compensation: (1) If personal injury is caused to a worker by accident arising out of and in the course of his employment, his employer shall be liable to pay compensation. (2) Employer is exempt if injury does not disable worker for more than three days, or if caused by intoxication or willful disobedience of safety rules.
+
+151. Amount of compensation: Compensation payable for death shall be a lump sum prescribed in the Fifth Schedule (or statutory minimum), and for permanent total disablement a lump sum prescribed therein.
+
+152. Method of calculating monthly wages for compensation: Monthly wages shall be calculated based on average monthly earnings of worker in twelve months prior to accident.
+
+153. Review of monthly payments: Any half-monthly payment payable under this Chapter may be reviewed by Commissioner on application of employer or worker.
+
+154. Commutation of half-monthly payments: Any right to receive half-monthly payments may by agreement or order of Commissioner be redeemed by a lump sum.
+
+155. Distribution of compensation: Compensation for death shall be deposited with Commissioner and distributed among dependents.
+
+156. Notice and claim of accident: No claim for compensation shall be entertained unless notice of accident is given to employer as soon as practicable.
+
+157. Medical examination: A worker giving notice of accident shall submit himself for medical examination by qualified medical practitioner provided by employer.
+
+158. Contracting out prohibited: Any contract or agreement whereby a worker relinquishes right to compensation from employer shall be null and void.
+
+159. Compensation to be first charge on assets: Compensation payable by employer shall rank prior to all other debts in bankruptcy or liquidation.
+
+160. Insolvency of employer: Where employer becomes insolvent, rights against insurer transfer to and vest in worker.
+
+161. Special provisions relating to seamen and maritime workers: Compensation claims for accidents at sea may be served on master of ship or owner.
+
+162. Compensation for occupational disease: Contracting of specified occupational diseases (Pneumoconiosis, Lead poisoning, Silicosis) shall be deemed injury by accident.
+
+163. Returns as to compensation: Every employer shall send annual return to Commissioner showing number of injuries and compensation paid.
+
+164. Appointment of Commissioners for Workers' Compensation: Government may appoint qualified persons to be Commissioners for Workers' Compensation.
+
+165. Functions of Commissioners: All claims for compensation, liability, and settlement shall be determined by Commissioner.
+
+166. Form of application to Commissioner: Applications to Commissioner shall be filed in prescribed form with details of injury and claim.
+
+167. Power of Commissioner to require further deposit: Commissioner may require employer to deposit additional compensation if initial deposit is insufficient.
+
+168. Powers and procedure of Commissioners: Commissioner shall have powers of Civil Court for enforcing attendance of witnesses and production of documents.
+
+169. Appearance of parties: Parties may appear before Commissioner in person, by legal practitioner, or by authorized trade union officer.
+
+170. Method of recording evidence: Evidence before Commissioner shall be taken down in writing and form part of record.
+
+171. Costs of proceedings: Costs of any proceeding before Commissioner shall be in discretion of Commissioner.
+
+172. Registration of agreements: Memorandum of agreement for lump sum compensation must be submitted to Commissioner for registration.
+
+173. Effect of failure to register agreement: Unregistered agreement for lump sum payment shall not exempt employer from liability.
+
+174. Appeals against Commissioner's order: Appeal lies to Labour Appellate Tribunal against Commissioner's order within sixty days.
+
+CHAPTER XII
+TRADE UNIONS AND INDUSTRIAL RELATIONS
+
+175. Right of workers and employers to form trade unions: Workers and employers without distinction shall have right to establish and join trade unions of their choice.
+
+176. Registration of trade unions: Any trade union may apply for registration under this Chapter to Registrar of Trade Unions.
+
+177. Application for registration: Application for registration shall be made in prescribed form signed by President and Secretary of trade union.
+
+178. Requirements for registration: (1) A trade union of workers shall not be registered unless it has minimum membership of 20% of total workers employed in establishment.
+
+179. Disqualification for membership of trade union: A person convicted of moral turpitude or offence under Section 304 shall be disqualified from union officer post.
+
+180. Registered trade union to maintain constitution: Constitution of registered trade union shall provide name, objects, fund usage, election of officers, and executive committee structure.
+
+181. Power of Registrar to register or refuse registration: Registrar shall register trade union within 55 days if requirements met, or issue reasoned refusal.
+
+182. Cancellation of registration: Registrar may cancel registration of trade union if union obtained registration by fraud or violated Act provisions.
+
+183. Appeal against refusal or cancellation of registration: Any person aggrieved by refusal or cancellation of registration may appeal to Labour Court within 30 days.
+
+184. Trade union of tea garden and sea workers: Specialized union registration provisions apply to tea gardens and maritime sectors.
+
+185. Collective Bargaining Agent (CBA): (1) Registered trade union with majority support shall be certified as Collective Bargaining Agent for establishment.
+
+186. Secret ballot for CBA determination: Where more than one trade union exists in establishment, Registrar shall conduct secret ballot to determine CBA.
+
+187. Functions of Collective Bargaining Agent: CBA shall undertake collective bargaining on terms of employment, represent workers in disputes, and nominate representatives to welfare bodies.
+
+188. Rights of CBA: CBA may collect union subscriptions, display notices on board, and represent workers in grievance and court proceedings.
+
+189. Federation of trade unions: Two or more registered trade unions in same industry may form a Federation of Trade Unions.
+
+190. Immunity from civil suit in certain cases: No civil suit or legal proceeding shall lie against registered trade union or its officers for acts done in furtherance of industrial dispute.
+
+191. Enforceability of agreement: An agreement between trade union and employer shall be legally binding on parties and workers represented.
+
+192. Maintenance of list of members and account books: Every registered trade union shall maintain membership register, minute book, and audited account books.
+
+193. Submission of annual returns: Every registered trade union shall send annual audited financial return to Registrar before 30th April.
+
+194. Unfair labour practices on part of employers: Employer shall not discriminate, threaten, dismiss or interfere with worker for trade union activities.
+
+195. Unfair labour practices on part of workers or trade unions: Worker or trade union shall not coerce, intimidate, compel employer or conduct illegal strike.
+
+196. Protection of trade union leaders during registration: Pending application for registration, no officer of trade union shall be transferred or dismissed without Registrar permission.
+
+197. Dual membership prohibited: No worker shall be member of more than one trade union at same time in same establishment.
+
+198. Trade union funds usage: Funds of registered trade union shall be spent only for objects authorized under its constitution.
+
+199. Check-off: Employer shall upon written authorization of worker deduct trade union subscription from wages and remit to CBA.
+
+200. Participation in international labor bodies: Registered trade unions may affiliate with international worker organizations.
+
+201. Right of inspection of union books: Officers and members of trade union may inspect union membership register and account books.
+
+202. Determination of CBA in multi-unit establishment: Registrar shall designate master CBA for multi-plant or multi-unit establishments.
+
+203. Redressal against unfair labor practice: Party aggrieved by unfair labor practice under Section 194 or 195 may apply to Labour Court.
+
+204. Power of Registrar to call for information: Registrar may require trade union officers to produce documents or financial accounts.
+
+205. Participation Committee: (1) In every establishment employing 50 or more workers, employer shall constitute Participation Committee consisting of employer and worker representatives.
+
+206. Functions of Participation Committee: Participation committee shall promote mutual trust, safety, health, occupational environment, and productivity.
+
+207. Meetings of Participation Committee: Participation committee shall meet at least once every two months.
+
+208. Implementation of Participation Committee recommendations: Employer and trade union shall take steps to implement recommendations of Participation Committee.
+
+CHAPTER XIII
+SETTLEMENT OF INDUSTRIAL DISPUTE, LABOUR COURT, LABOUR APPELLATE TRIBUNAL, LEGAL PROCEEDINGS, ETC.
+
+209. Raising of industrial dispute: An industrial dispute may be raised by Collective Bargaining Agent or employer in writing.
+
+210. Conciliation: (1) Upon receipt of dispute notice, Conciliator appointed by Government shall start conciliation proceedings within ten days.
+
+211. Settlement through conciliation: If agreement is reached in conciliation, memorandum of settlement shall be signed by parties and sent to Government.
+
+212. Failure of conciliation: If conciliation fails within 30 days, Conciliator shall issue certificate of failure to parties.
+
+213. Arbitration: Upon failure of conciliation, parties may agree to refer dispute to an Arbitrator chosen by them.
+
+214. Strike and Lock-out: (1) CBA may issue 21 days' strike notice, or employer may issue 21 days' lock-out notice if conciliation fails and arbitration declined. (2) Three-fourths majority vote of CBA members required for strike call.
+
+215. Prohibition of strike or lock-out in public utility services: Government may prohibit strike or lock-out in essential public utility services (power, water, gas, hospital, port).
+
+216. Illegal strike or lock-out: A strike or lock-out commenced without proper notice, during conciliation/court proceedings, or in violation of Section 215 is illegal.
+
+217. Establishment of Labour Courts: (1) The Government shall by notification establish one or more Labour Courts. (2) Labour Court consists of Chairman (Judicial Officer) and two members (one representing employers, one workers).
+
+218. Jurisdiction of Labour Court: Labour Court shall adjudicate industrial disputes, wage claims, grievance petitions, trade union appeals, and offences under this Act.
+
+219. Procedure and powers of Labour Court: Labour Court shall follow summary judicial procedure and have powers of Civil Court and Magistrate First Class.
+
+220. Judgment and award of Labour Court: Labour Court shall deliver judgment within 60 days of application filing; award shall be binding on parties.
+
+221. Appeal against Labour Court award: Party aggrieved by Labour Court award or sentence may appeal to Labour Appellate Tribunal within 45 days.
+
+222. Labour Appellate Tribunal: (1) The Government shall establish Labour Appellate Tribunal consisting of Chairman (retired High Court Judge or Senior District Judge).
+
+223. Procedure and powers of Labour Appellate Tribunal: Appellate Tribunal shall hear appeals from Labour Court and exercise superintendence over all Labour Courts.
+
+224. Finality of Tribunal decisions: Judgment of Labour Appellate Tribunal shall be final and binding.
+
+225. Settlement binding on all parties: Settlement reached in conciliation or award of Labour Court/Tribunal shall be binding on all workers and successor employers.
+
+226. Period of operation of settlement or award: Settlement or award shall remain in force for period agreed or one year if no period specified.
+
+227. Recovery of money due under award or settlement: Any money due from employer under settlement or award may be recovered as public demand or fine by Labour Court.
+
+228. Appearance of legal practitioners: Parties before Labour Court or Tribunal may be represented by advocate or trade union officer.
+
+229. Indemnity: No suit or legal proceeding shall lie against any public officer for anything done in good faith under this Act.
+
+230. Costs of court proceedings: Costs of proceedings before Labour Court or Appellate Tribunal shall be at discretion of court.
+
+231. Power to remove difficulties: Government may issue orders to remove practical difficulties in implementing dispute settlements.
+
+CHAPTER XIV
+WORKERS' PARTICIPATION IN COMPANIES PROFITS
+
+232. Application of Chapter XIV: This Chapter applies to every company/factory satisfying prescribed capital or asset threshold or employing 100 or more workers.
+
+233. Establishment of Workers Participation Fund and Welfare Fund: Every company to which this Chapter applies shall establish a Workers' Participation Fund and a Workers' Welfare Fund.
+
+234. Management of Funds: (1) Company shall pay 5% of its net profit every year to the Participation Fund, Welfare Fund, and Central Welfare Fund (80:10:10 ratio).
+
+235. Board of Trustees: Management of Participation Fund and Welfare Fund shall vest in Board of Trustees consisting of company and worker representatives.
+
+236. Allocation of Participation Fund: Two-thirds of Participation Fund shall be distributed equally among eligible workers in cash, and one-third invested.
+
+237. Eligibility to participate in Fund: All workers with at least six months of continuous service in company shall be eligible to participate in Fund.
+
+238. Exemption from tax: Contributions to and distributions from Participation Fund shall be exempt from income tax.
+
+239. Audit of Fund accounts: Accounts of Participation Fund shall be audited annually by chartered accountant.
+
+240. Recovery of unpaid contribution: Contribution unpaid by company to Fund may be recovered by Government as public demand with interest penalty.
+
+241. Penalty for non-compliance: Failure by company officer to establish Fund or pay 5% profit share is punishable with fine up to Taka one lac and daily recurring fine.
+
+242. Central Welfare Fund: Government shall manage Central Welfare Fund for benefit of industrial workers nationwide.
+
+243. Power of Government to issue directions: Government may inspect Fund records and issue binding compliance directions to company.
+
+244. Special provisions for export processing zones: Government may apply profit participation rules to EPZ and specialized economic zone units.
+
+245. Annual report of Board of Trustees: Trustees shall submit annual report to Government showing profit share distribution.
+
+246. Exemption of certain companies: Government may exempt specialized state enterprises or non-profit units from Chapter XIV.
+
+247. Settlement of disputes regarding Fund: Disputes concerning eligibility or payout shall be decided by Labour Court.
+
+248. Mode of investment of Fund: Unallocated fund amounts shall be invested in government securities or profitable bonds.
+
+249. Prohibition of assignment or attachment: Worker's share in Fund shall not be attached by court order or assigned to third party.
+
+250. Winding up of Participation Fund: Upon liquidation of company, Fund assets shall be distributed to eligible workers prior to general creditors.
+
+251. Power to make rules under Chapter XIV: Government may make rules for calculation of net profit and trust administration.
+
+252. Display of profit share statement: Company shall display audited statement of profit share allocation within nine months of financial year end.
+
+CHAPTER XV
+PROVIDENT FUND
+
+253. Establishment of Provident Fund in tea plantations: Every tea garden employer shall establish Provident Fund for resident workers.
+
+254. Rate of contribution to Provident Fund: Worker contribution shall be 7.5% of basic wages, matched equally by 7.5% employer contribution.
+
+255. Constitution of Board of Trustees for Provident Fund: Provident Fund shall be managed by Board of Trustees representing employer and workers equally.
+
+256. Investment of Provident Fund money: Provident fund moneys shall be invested in approved government securities, treasury bills or fixed deposits.
+
+257. Payment of Provident Fund on retirement or death: Accumulation in Provident Fund shall be paid to worker on retirement/resignation or to nominee on death.
+
+258. Exemption from attachment: Amount standing to credit of worker in Provident Fund shall not be attached under court decree.
+
+259. Provident fund in private establishments: Private establishments establishing voluntary provident fund shall register trust deed with Registrar.
+
+260. Employers liability to pay provident fund: Employer failing to deposit monthly matching contribution shall be liable to pay penalty interest.
+
+261. Recovery of provident fund dues: Unpaid provident fund dues may be recovered as public demand by Inspector or Trustee.
+
+262. Protection of action taken in good faith: No suit shall lie against Trustee acting in good faith under Provident Fund rules.
+
+263. Power to make rules regarding Provident Fund: Government may make rules for provident fund accounts, audit, and withdrawal procedures.
+
+CHAPTER XVI
+ADMINISTRATION, INSPECTION, ETC.
+
+264. Chief Inspector and Inspectors: Government shall appoint Chief Inspector, Additional Chief Inspectors, Deputy Chief Inspectors, and Inspectors of Factories and Establishments.
+
+265. Powers of Chief Inspector: Chief Inspector shall exercise administrative supervision over all Inspectors and enforce compliance with this Act nationwide.
+
+266. Powers of Inspectors: (1) Inspector may enter any establishment at any reasonable time, examine registers, take evidence, and inspect machinery and safety devices.
+
+267. Inspectors to be public servants: Every Inspector appointed under this Act shall be deemed a public servant within meaning of Penal Code.
+
+268. Employer to afford facilities to Inspector: Every employer shall afford all reasonable facilities to Inspector for entry, inspection, and examination.
+
+269. Secrecy of information: Inspector shall keep confidential all manufacturing processes, trade secrets, and worker complaints coming to his knowledge.
+
+270. Report of Inspector: Inspector shall submit periodic inspection reports to Chief Inspector detailing safety hazards and violations detected.
+
+271. Power of Government to appoint experts: Government may appoint qualified medical, chemical, or engineering experts to assist Inspectors.
+
+272. Delegation of powers: Chief Inspector may delegate any of his administrative powers to Deputy Chief Inspector or Inspector.
+
+273. National Council for Industrial Health and Safety: Government shall establish National Council to advise on occupational safety and health policies.
+
+274. Constitution of National Council: National Council shall consist of Minister of Labour, representatives of employers, workers, and health experts.
+
+275. Functions of National Council: Council shall formulate national occupational safety guidelines, review accident trends, and recommend law amendments.
+
+276. Maintenance of registers and records by employer: Employer shall maintain prescribed registers of workers, leave, wages, overtime, and accidents.
+
+277. Display of notices: Employer shall display abstract of Act, working hours notice, and safety notices in Bangla and English at entrance.
+
+278. Notice of local official address: Employer shall notify Inspector of official address and change of management within fifteen days.
+
+279. Obligation of workers: No worker shall willfully interfere with safety appliance, commit unsafe act, or neglect health rules.
+
+280. Right of worker to report unsafe condition: Worker may report dangerous machinery or unsafe condition to safety committee or Inspector.
+
+281. Protection against victimization for reporting: No employer shall discipline worker for reporting safety violation or testifying before Inspector.
+
+282. Annual report of Chief Inspector: Chief Inspector shall submit annual national report to Government on administration of Act.
+
+CHAPTER XVII
+OFFENCES, PENALTIES AND PROCEDURE
+
+283. Penalty for illegal strike or lock-out: Any worker who commences or continues illegal strike shall be punishable with imprisonment up to 6 months or fine up to Taka 5,000. Any employer commencing illegal lock-out punishable with imprisonment up to 1 year or fine up to Taka 25,000.
+
+284. Penalty for instigating illegal strike or lock-out: Any person who instigates or incites others to take part in illegal strike/lock-out punishable with imprisonment up to 1 year or fine.
+
+285. Penalty for taking part in un-certificated union activities: Person taking part in illegal union activity or false CBA representation punishable with fine.
+
+286. Penalty for unfair labor practices: Any person who commits unfair labor practice under Section 194 or 195 punishable with imprisonment up to 1 year or fine up to Taka 10,000.
+
+287. Penalty for non-implementation of settlement or award: Failure to comply with settlement or Labour Court award punishable with imprisonment up to 1 year or fine.
+
+288. Penalty for paying less than minimum wages: Employer paying less than statutory minimum wage under Section 141 punishable with imprisonment up to 1 year or fine up to Taka 10,000.
+
+289. Penalty for employment of child and adolescent: Employer employing child or adolescent in contravention of Chapter III punishable with fine up to Taka 5,000.
+
+290. Penalty for failure to give notice of accident: Employer failing to report fatal accident or dangerous occurrence under Section 80 punishable with fine up to Taka 5,000.
+
+291. Penalty for breach of safety rules: Breach of safety, health or fire precautions under Chapters V, VI, VII punishable with imprisonment up to 3 months or fine up to Taka 10,000.
+
+292. Penalty for obstructing Inspector: Any person who willfully obstructs Inspector or hides documents punishable with imprisonment up to 6 months or fine up to Taka 10,000.
+
+293. Penalty for wrong statement or false register: Making false entry in service book, wage register or safety book punishable with imprisonment up to 6 months or fine.
+
+294. Penalty for failure to maintain participation committee: Employer failing to form Participation Committee under Section 205 punishable with fine.
+
+295. Penalty for failure to pay profit share: Employer failing to pay 5% profit share into Workers' Participation Fund under Section 234 punishable with fine up to Taka 1,000,000.
+
+296. Penalty for failure to provide creche or canteen: Employer failing to provide child room or canteen punishable with fine up to Taka 5,000.
+
+297. Penalty for double employment of child: Parent or guardian permitting child to work in two establishments punishable with fine.
+
+298. Offence by companies: Where offence under this Act is committed by company, every director, manager, secretary or officer shall be deemed guilty unless proved without knowledge.
+
+299. Cognizance of offences: No court other than Labour Court shall take cognizance of any offence punishable under this Act.
+
+300. Complaint by Inspector or aggrieved party: Labour Court shall take cognizance of offence only upon complaint in writing by Inspector, aggrieved worker, or trade union officer.
+
+301. Limitation of prosecution: Prosecution for offence under this Act must be instituted within six months of date of offence knowledge.
+
+302. Compounding of offences: Minor technical offences under this Act may be compounded by Chief Inspector upon payment of prescribed sum.
+
+303. Trial procedure in Labour Court: Labour Court shall follow summary trial procedure prescribed in Code of Criminal Procedure for trial of offences.
+
+304. Enhanced penalty after previous conviction: Person convicted of second offence under same provision shall be subject to double maximum fine or imprisonment.
+
+305. Forfeiture of illegal wages or assets: Labour Court may order forfeiture of assets illegally gained through violation of Act.
+
+306. Power to order repair of dangerous building: Labour Court may order employer to execute necessary structural repairs to dangerous building within specified time.
+
+307. Penalty for breach of confidentiality: Inspector or officer breaching trade secret confidentiality punishable with imprisonment up to 6 months or fine.
+
+308. Fine money utilization: Fines realized under this Act shall be credited to Government Treasury or Workers Welfare Foundation Fund.
+
+309. Protection for acts done in good faith: No criminal prosecution shall lie against Government officer for act done in good faith under this Act.
+
+310. Onus of proof regarding age: Where child age is disputed, onus of proving age lies on employer or parent producing medical certificate.
+
+311. Onus of proof regarding safety compliance: In prosecution for failure to provide safety guard, onus of proving guard was provided lies on employer.
+
+312. Execution of fine by Labour Court: Fines imposed by Labour Court may be recovered by distress and sale of offender's property.
+
+313. Representation of accused: Accused employer or worker may defend himself through advocate or authorized representative.
+
+314. Power of court to exempt employer in certain cases: Employer charged with offence may bring actual offender before court and be discharged if employer exercised due diligence.
+
+315. Summary dismissal of frivolous complaints: Labour Court may dismiss frivolous or vexatious complaint and order complainant to pay compensation to accused.
+
+316. Appeal against criminal conviction by Labour Court: Appeal against conviction or sentence by Labour Court lies to Labour Appellate Tribunal within 30 days.
+
+CHAPTER XVIII
+MISCELLANEOUS
+
+317. Power of Government to make rules: Government may by notification in official Gazette make rules for carrying out purposes of this Act.
+
+318. Publication of rules: All rules made under Section 317 shall be subject to previous publication for public comments.
+
+319. Power to exempt establishments: Government may by notification exempt any establishment, shop or factory from all or any provisions of this Act in public interest.
+
+320. Display of abstracts of Act: Employer shall display abstract of Act and rules in clear Bangla script at prominent place in establishment.
+
+321. Service of notice: Any notice, order or document required to be served under this Act may be served by registered post or hand delivery.
+
+322. Protection of existing rights and privileges: Nothing in this Act shall affect any privilege, right or custom enjoyed by worker under any award, custom or agreement more favorable than this Act.
+
+323. Freedom of contract subject to Act: Any contract of service whereby worker relinquishes any right conferred by this Act shall be void.
+
+324. Bar of jurisdiction of Civil Courts: No Civil Court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which Labour Court or Tribunal is empowered to decide.
+
+325. Members and staff of Labour Court to be public servants: Members, officers and staff of Labour Court and Tribunal shall be public servants.
+
+326. Power to remove difficulties: If any difficulty arises in giving effect to provisions of this Act, Government may by order make provisions not inconsistent with Act.
+
+327. Protection of action taken under rules: No suit or legal proceeding shall lie against any person for anything done under rules made under this Act.
+
+328. Power to amend Schedules: Government may by notification amend any Schedule to this Act (list of dangerous operations, diseases, compensation scale).
+
+329. Training on Labour Law: Government and employers shall arrange periodic training on Labour Law and industrial safety for workers and managers.
+
+330. Labour Statistics: Employer shall submit annual statistical returns regarding employment, wages, hours, and accidents to Chief Inspector.
+
+331. Power to inspect records: Authorized government officers may call for and inspect employment records of any establishment.
+
+332. Registration of establishments: Every establishment shall register with Department of Inspection for Factories and Establishments within prescribed time.
+
+333. Renewal of establishment license: Factory and establishment licenses shall be renewed annually upon payment of prescribed fee.
+
+334. Welfare Fund for Export Processing Zones: Specialized welfare fund rules shall apply to EPZ enterprises.
+
+335. Application of Act to government establishments: Provisions of this Act apply to government industrial establishments and railway workshops.
+
+336. Payment of dues of deceased worker: Unpaid wages and dues of deceased worker shall be paid to nominee or legal heir without probate certificate up to prescribed limit.
+
+337. National Tripartite Consultative Council: Government shall constitute National Tripartite Consultative Council representing Government, employers, and workers to advise on labour policies.
+
+338. Functions of Tripartite Council: Tripartite Council shall review labor laws, industrial harmony, productivity, and ILO convention compliance.
+
+339. Gender equality in employment: Employer shall promote gender equality and non-discrimination in recruitment, training, and promotion.
+
+340. Prevention of sexual harassment: Employer shall take effective measures and form complaint committee to prevent sexual harassment of women in workplace.
+
+341. Equal opportunity for disabled workers: Employer shall encourage employment of physically challenged persons suitable for job.
+
+342. Health center in large industrial zones: Government and employer associations may jointly establish medical centers in concentrated industrial areas.
+
+343. Occupational health and safety policy: Every establishment employing 100 or more workers shall formulate written occupational safety and health policy.
+
+344. Environmental protection in establishments: Establishment shall comply with environmental laws regarding industrial effluent and waste treatment.
+
+345. Identity card for all workers: Employer shall issue identity card with photo to every worker at time of appointment free of charge.
+
+346. Service book to be handed over on termination: Duplicate copy of service book shall be handed over to worker upon termination of employment.
+
+347. Notice board requirement: Every establishment shall maintain notice board near main entrance for official notices.
+
+348. Language of notices and agreements: All official notices, agreements and settlements shall be written in Bangla and English.
+
+349. Translation of Act: Government shall publish authentic English translation of Bangladesh Labour Act 2006.
+
+350. Computation of period of limitation: In computing period of limitation for filing application or appeal under this Act, provisions of Limitation Act apply.
+
+351. Effect of law on custom or contract: Provisions of this Act shall have effect notwithstanding anything inconsistent contained in any other law or contract.
+
+352. Overriding effect of Act: This Act shall override any inconsistent rule, regulation or instrument of establishment.
+
+353. Repeal and savings: (1) The Factories Act 1965, Industrial Relations Ordinance 1969, Employment of Labour (Standing Orders) Act 1965, Payment of Wages Act 1936, Workmen's Compensation Act 1923, and Maternity Benefit Act 1939 are hereby repealed. (2) Anything done or action taken under repealed laws shall be deemed done under corresponding provision of this Act.
+
+354. Original and authentic text: The original text of this Act is in Bangla, and the Government shall publish an authentic English text under Section 349.

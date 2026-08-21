@@ -1,0 +1,37 @@
+services:
+  # ----------------------------------------------------
+  # 1. FastAPI Backend Service
+  # ----------------------------------------------------
+  - type: web
+    name: labour-law-backend
+    env: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false # Set your Groq API key in Render Dashboard
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: ALLOWED_ORIGINS
+        value: "*"
+
+  # ----------------------------------------------------
+  # 2. Vite React Frontend Static Site
+  # ----------------------------------------------------
+  - type: web
+    name: labour-law-frontend
+    env: static
+    rootDir: frontend
+    buildCommand: npm run build
+    staticPublishPath: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: labour-law-backend
+          property: host

@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="31" fill="#21295C"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#E8A33D" stroke-width="1.4"/>
+  <text x="32" y="41" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#F4EFE3">শ্র</text>
+</svg>
