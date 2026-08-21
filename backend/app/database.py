@@ -8,6 +8,7 @@ without adding any infrastructure.
 """
 from __future__ import annotations
 
+import json
 import sqlite3
 import uuid
 from contextlib import contextmanager
@@ -29,6 +30,7 @@ CREATE TABLE IF NOT EXISTS messages (
     session_id  TEXT NOT NULL REFERENCES sessions(id) ON DELETE CASCADE,
     role        TEXT NOT NULL CHECK (role IN ('user', 'assistant')),
     content     TEXT NOT NULL,
+    citations   TEXT,
     created_at  TEXT NOT NULL
 );
 
@@ -44,6 +46,9 @@ def init_db() -> None:
     settings.DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     with get_conn() as conn:
         conn.executescript(SCHEMA)
+        columns = [row[1] for row in conn.execute("PRAGMA table_info(messages)").fetchall()]
+        if "citations" not in columns:
+            conn.execute("ALTER TABLE messages ADD COLUMN citations TEXT")
 
 
 @contextmanager
@@ -120,22 +125,43 @@ def delete_session(session_id: str) -> None:
         conn.execute("DELETE FROM sessions WHERE id = ?", (session_id,))
 
 
-def add_message(session_id: str, role: str, content: str) -> dict:
+def add_message(session_id: str, role: str, content: str, citations: list[dict] | None = None) -> dict:
     now = _now()
+    citations_json = json.dumps(citations) if citations else None
     with get_conn() as conn:
         cur = conn.execute(
-            "INSERT INTO messages (session_id, role, content, created_at) VALUES (?, ?, ?, ?)",
-            (session_id, role, content, now),
+            "INSERT INTO messages (session_id, role, content, citations, created_at) VALUES (?, ?, ?, ?, ?)",
+            (session_id, role, content, citations_json, now),
         )
         msg_id = cur.lastrowid
-    return {"id": msg_id, "session_id": session_id, "role": role, "content": content, "created_at": now}
+    return {
+        "id": msg_id,
+        "session_id": session_id,
+        "role": role,
+        "content": content,
+        "citations": citations,
+        "created_at": now,
+    }
 
 
 def get_messages(session_id: str) -> list[dict]:
     with get_conn() as conn:
         rows = conn.execute(
-            "SELECT id, role, content, created_at FROM messages "
+            "SELECT id, role, content, citations, created_at FROM messages "
             "WHERE session_id = ? ORDER BY id ASC",
             (session_id,),
         ).fetchall()
-    return [dict(r) for r in rows]
+
+    result = []
+    for r in rows:
+        d = dict(r)
+        c_str = d.pop("citations", None)
+        if c_str:
+            try:
+                d["citations"] = json.loads(c_str)
+            except Exception:
+                d["citations"] = []
+        else:
+            d["citations"] = []
+        result.append(d)
+    return result

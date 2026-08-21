@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { motion } from "framer-motion";
 import ReactMarkdown from "react-markdown";
@@ -106,6 +107,21 @@ export default function MessageBubble({ role, content, isError, citations, onSel
     setTimeout(() => setCopiedReply(false), 2000);
   };
 
+  // Determine display citations: use passed prop, or fallback extract from text if missing
+  let displayCitations = citations || [];
+  if (!isUser && !isError && displayCitations.length === 0 && content) {
+    const matches = [...String(content).matchAll(/\bSection\s*(\d{1,3})\b/gi)];
+    const secNums = Array.from(new Set(matches.map((m) => parseInt(m[1], 10)))).filter(
+      (n) => n >= 1 && n <= 354
+    );
+    if (secNums.length > 0) {
+      displayCitations = secNums.map((num) => ({
+        section: num,
+        title: `Section ${num}`,
+      }));
+    }
+  }
+
   return (
     <motion.div
       className={`bubble-row ${isUser ? "bubble-row--user" : ""}`}
@@ -157,10 +173,10 @@ export default function MessageBubble({ role, content, isError, citations, onSel
           </div>
         )}
 
-        {!isUser && citations && citations.length > 0 && (
+        {!isUser && displayCitations && displayCitations.length > 0 && (
           <div className="citation-row">
             <span className="citation-label">Sources:</span>
-            {citations.map((c) => (
+            {displayCitations.map((c) => (
               <button
                 key={c.section}
                 className="citation-chip"

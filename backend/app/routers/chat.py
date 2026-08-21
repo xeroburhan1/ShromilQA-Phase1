@@ -1,12 +1,11 @@
-from __future__ import annotations
-
+import re
 from fastapi import APIRouter, HTTPException
 
 from .. import database as db
 from ..config import settings
 from ..groq_client import get_chat_completion
 from ..models import ChatRequest, ChatResponse, MessageOut, SessionDetailOut, SessionOut
-from ..rag.retrieve import get_index, retrieve_context
+from ..rag.retrieve import get_index, is_small_talk, retrieve_context
 from ..system_prompt import SYSTEM_PROMPT
 
 router = APIRouter(prefix="/api", tags=["chat"])
@@ -59,8 +58,12 @@ async def chat(req: ChatRequest):
     if is_first_message:
         db.rename_session_if_default(session_id, req.message)
 
-    # --- Retrieval (architecture report §4.8): find relevant Act sections ---
-    context_block, citations = retrieve_context(req.message)
+    # --- Small-talk / Formal conversation check ---
+    if is_small_talk(req.message):
+        context_block, citations = "", []
+    else:
+        # --- Retrieval (architecture report §4.8): find relevant Act sections ---
+        context_block, citations = retrieve_context(req.message)
 
     # Build the context window sent to the model: system prompt + retrieved
     # context (as a separate system-role message, so it's clearly distinct
@@ -81,8 +84,34 @@ async def chat(req: ChatRequest):
     if not reply_text or not reply_text.strip():
         reply_text = "I apologize, but I was unable to generate a detailed response for your question. Please try rephrasing your prompt."
 
-    reply = db.add_message(session_id, "assistant", reply_text)
+    # For non-small-talk queries, ensure any section numbers mentioned in reply_text are included in citations
+    if not is_small_talk(req.message):
+        index = get_index()
+        mentioned_sec_nums = [
+            int(n) for n in re.findall(r"\bSection\s*(\d{1,3})\b", reply_text, re.IGNORECASE)
+        ]
+
+        existing_sec_nums = {c["section"] for c in citations}
+        added_citations = []
+
+        for sec_num in mentioned_sec_nums:
+            if sec_num not in existing_sec_nums and 1 <= sec_num <= 354:
+                sec = index.get_by_number(sec_num)
+                if sec:
+                    existing_sec_nums.add(sec_num)
+                    added_citations.append(
+                        {"section": sec.number, "title": sec.title, "chapter": sec.chapter, "text": sec.text}
+                    )
+
+        # Place sections directly cited by the LLM response first
+        citations = added_citations + citations
+
+        # Fallback: If citations is still empty for a relevant legal question, perform top_k search
+        if not citations:
+            _, citations = retrieve_context(req.message, top_k=3)
+
+    reply = db.add_message(session_id, "assistant", reply_text, citations=citations)
     db.touch_session(session_id)
 
-    reply_out = MessageOut(**reply, citations=citations)
+    reply_out = MessageOut(**reply)
     return {"session_id": session_id, "reply": reply_out, "citations": citations}
