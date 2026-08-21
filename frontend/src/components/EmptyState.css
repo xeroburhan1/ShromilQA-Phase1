@@ -60,3 +60,25 @@
 .empty-state__chip:active {
   transform: scale(0.97);
 }
+
+@media (max-width: 640px) {
+  .empty-state {
+    padding: 24px 10px;
+  }
+  .empty-state__title {
+    font-size: 24px;
+  }
+  .empty-state__subtitle {
+    font-size: 13.5px;
+    margin-bottom: 20px;
+  }
+  .empty-state__chips {
+    gap: 8px;
+  }
+  .empty-state__chip {
+    font-size: 12.5px;
+    padding: 9px 14px;
+    width: 100%;
+    text-align: left;
+  }
+}

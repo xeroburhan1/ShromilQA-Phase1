@@ -117,3 +117,26 @@
   color: inherit;
   text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+  .bubble-row {
+    max-width: 92%;
+    gap: 8px;
+  }
+
+  .bubble {
+    padding: 11px 14px;
+    font-size: 14px;
+    line-height: 1.55;
+    border-radius: 10px;
+  }
+
+  .citation-row {
+    gap: 5px;
+  }
+
+  .citation-chip {
+    font-size: 11.5px;
+    padding: 5px 11px;
+  }
+}

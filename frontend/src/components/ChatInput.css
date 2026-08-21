@@ -94,3 +94,24 @@
   color: var(--ink-faint);
   text-align: center;
 }
+
+@media (max-width: 768px) {
+  .chat-input {
+    padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+  }
+
+  .chat-input__box {
+    border-radius: 14px;
+    padding: 6px 6px 6px 12px;
+  }
+
+  .chat-input__textarea {
+    font-size: 16px; /* Prevents auto-zoom on iOS Safari */
+  }
+
+  .chat-input__send {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+  }
+}

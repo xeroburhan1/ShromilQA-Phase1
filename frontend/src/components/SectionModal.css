@@ -138,3 +138,32 @@
   box-shadow: var(--primary-glow-lg);
   transform: translateY(-1px);
 }
+
+@media (max-width: 640px) {
+  .modal-backdrop {
+    align-items: flex-end;
+    padding: 0;
+  }
+
+  .section-modal {
+    width: 100%;
+    max-width: 100%;
+    max-height: 88dvh;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+
+  .section-modal__header {
+    padding: 16px 18px 14px;
+  }
+
+  .section-modal__body {
+    padding: 16px 18px;
+  }
+
+  .section-modal__footer {
+    padding: 12px 18px;
+  }
+}
